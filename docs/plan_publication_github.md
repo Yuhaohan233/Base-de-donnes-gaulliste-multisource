@@ -27,6 +27,7 @@ Il contient la documentation, les schémas, les scripts et les petits fichiers d
 - `github_package_fr/release_assets/gaullist_db_v3.dump`
 - `github_package_fr/release_assets/json_v3.zip`
 - `github_package_fr/release_assets/data_registry_outputs_v3.zip`
+- `github_package_fr/release_assets/raw_source_data_1944_1969.zip`
 
 ## Pourquoi utiliser une release
 

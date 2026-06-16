@@ -15,6 +15,7 @@ Cette release fournit la version de diffusion de la base de données gaulliste m
 - `gaullist_db_v3.dump` : dump PostgreSQL restaurable.
 - `json_v3.zip` : export JSON complet, avec un fichier par personne, source et organisation.
 - `data_registry_outputs_v3.zip` : exports CSV/JSON du registre multisource, incluant les tables d'identité, les liens, les appartenances, les identifiants externes et les fichiers de revue.
+- `raw_source_data_1944_1969.zip` : fichiers sources et données brutes disponibles, notamment Sycomore, Mémoire des Hommes, FAFL et fichiers d'entrée du registre.
 
 ## Restauration PostgreSQL
 
