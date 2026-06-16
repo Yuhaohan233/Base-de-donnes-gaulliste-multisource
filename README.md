@@ -5,6 +5,7 @@ Ce dépôt présente une version de diffusion de la base de données construite 
 ## Contenu du dépôt
 
 - `schema/` : schéma SQL PostgreSQL, schéma DBML pour dbdiagram.io, schémas JSON et scripts SQL d'import/vérification.
+- `data/` : tables CSV maîtresses, registre des identifiants et fichiers sources disponibles.
 - `docs/` : description de l'architecture, logique de revue des identités et guide de restauration.
 - `review/` : fichier des cas d'identité à vérifier manuellement et synthèse de la file de revue.
 - `metadata/` : catalogue des sources, organisations, règles d'appartenance et manifeste de diffusion.
@@ -17,6 +18,7 @@ Les fichiers volumineux ne doivent pas être placés directement dans le dépôt
 - `gaullist_db_v3.dump` : sauvegarde PostgreSQL restaurable.
 - `json_v3.zip` : export JSON v3 complet.
 - `data_registry_outputs_v3.zip` : exports CSV/JSON issus du registre multisource.
+- `raw_source_data_1944_1969.zip` : fichiers sources et données brutes disponibles.
 
 ## État des données
 

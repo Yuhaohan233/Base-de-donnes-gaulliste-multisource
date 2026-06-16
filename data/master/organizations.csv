@@ -1,0 +1,15 @@
+﻿org_id,nom_officiel,nom_court,org_type,org_level,country,parent_org_id,is_gaulliste_marker,start_date,end_date,notes,extensions
+ORG_AN,Assemblée nationale,AN,Legislative,National,FR,,false,1946-10-27,,Institutional continuity of the National Assembly across the Fourth and Fifth Republics,{}
+ORG_GROUPE_RPF,Rassemblement du peuple français,RPF,ParliamentaryGroup,National,FR,ORG_AN,true,1947-01-01,1955-12-31,,{}
+ORG_GROUPE_RS,Républicains sociaux,RS,ParliamentaryGroup,National,FR,ORG_AN,true,1955-01-01,1958-12-31,,{}
+ORG_GROUPE_URAS,Union des républicains d'action sociale,URAS,ParliamentaryGroup,National,FR,ORG_AN,true,1955-01-01,1958-12-31,,{}
+ORG_GROUPE_UNR,Union pour la Nouvelle République,UNR,ParliamentaryGroup,National,FR,ORG_AN,true,1958-01-01,1962-12-31,,{}
+ORG_GROUPE_UNR_UDT,Union pour la Nouvelle République - Union démocratique du travail,UNR-UDT,ParliamentaryGroup,National,FR,ORG_AN,true,1958-01-01,1967-12-31,,{}
+ORG_GROUPE_UDR,Union des démocrates pour la République,UDR,ParliamentaryGroup,National,FR,ORG_AN,true,1967-01-01,1969-12-31,,{}
+ORG_FFL,Forces françaises libres,FFL,Military,Transnational,FR,,true,1940-06-18,1943-08-01,,{}
+ORG_FAFL,Forces aériennes françaises libres,FAFL,Military,Transnational,FR,ORG_FFL,true,1940-07-01,1943-08-01,,{}
+ORG_FNFL,Forces navales françaises libres,FNFL,Military,Transnational,FR,ORG_FFL,true,1940-07-01,1943-08-01,,{}
+ORG_COMPAGNONS_LIBERATION,Ordre de la Libération,Compagnons,Decoration,National,FR,,true,1940-11-16,,,{}
+ORG_GOUVERNEMENT_FR,Gouvernement de la République française,Gouvernement,Executive,National,FR,,false,1944-09-10,,,{}
+ORG_PRESIDENCE_REPUBLIQUE,Présidence de la République française,Présidence,Executive,National,FR,,false,1947-01-16,,,{}
+ORG_MINISTERE_INTERIEUR,Ministère de l'Intérieur,Intérieur,Executive,National,FR,ORG_GOUVERNEMENT_FR,false,,,Institutional entity with changing official titles,{}
