@@ -1,0 +1,31 @@
+{
+  "errors": 0,
+  "external_id_conflicts": 0,
+  "matched": 460,
+  "new_identities": 64414,
+  "output_rows": {
+    "career_entries_v3.csv": 1891,
+    "career_organizations.csv": 65479,
+    "id_registry_v3.csv": 66059,
+    "identity_links_v3.csv": 66553,
+    "identity_master_v3.csv": 66059,
+    "membership_rules.csv": 15,
+    "organization_aliases.csv": 38,
+    "organizations.csv": 14,
+    "person_external_ids.csv": 65449,
+    "person_memberships.csv": 66912,
+    "promoted_identity_candidates.csv": 64420,
+    "source_import_batches.csv": 9,
+    "sources.csv": 12
+  },
+  "pending_reviews": 3837,
+  "promoted_by_rule": 64414,
+  "promoted_candidates": 64420,
+  "skipped": 626297,
+  "staged_deported": 25442,
+  "staged_fafl": 1681,
+  "staged_government": 1707,
+  "staged_homologations": 597004,
+  "staged_medals": 65281,
+  "staged_prefets": 3899
+}

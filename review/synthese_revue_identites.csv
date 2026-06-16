@@ -1,0 +1,11 @@
+﻿source_system;match_method;priority;risk_level;nombre
+MDH_DEPORTED;name_birth_year_place;P1_quick_review;medium;21
+MDH_DEPORTED;name_key_hard_conflict;P3_hard_conflict;high;100
+MDH_FAFL;name_birth_year_place;P1_quick_review;medium;25
+MDH_FAFL;name_key_hard_conflict;P3_hard_conflict;high;15
+MDH_HOMOLOGATION;ambiguous_name_birth_place;P2_ambiguous;medium_high;3
+MDH_HOMOLOGATION;name_birth_year_place;P1_quick_review;medium;563
+MDH_HOMOLOGATION;name_key_hard_conflict;P3_hard_conflict;high;2491
+MDH_MEDAL;ambiguous_name_birth_place;P2_ambiguous;medium_high;2
+MDH_MEDAL;name_birth_year_place;P1_quick_review;medium;290
+MDH_MEDAL;name_key_hard_conflict;P3_hard_conflict;high;327

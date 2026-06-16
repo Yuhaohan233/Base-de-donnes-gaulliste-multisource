@@ -1,0 +1,10 @@
+﻿batch_id,source_id,source_file,imported_at,row_count,success_count,error_count,mapping_version,status
+BATCH_SRC_PREFECTS,SRC_PREFECTS,D:/pythonProject_stage/Cleandata_new/source/prefets-et-prefetes-francais-depuis-1800.csv,2026-06-15T00:00:00+00:00,3899,3899,0,v3-task8,loaded
+BATCH_SRC_PRESIDENTS,SRC_PRESIDENTS,D:/pythonProject_stage/Cleandata_new/source/liste-presidents-5eme-republique.csv,2026-06-15T00:00:00+00:00,4,4,0,v3-task8,loaded
+BATCH_SRC_PRIME_MINISTERS,SRC_PRIME_MINISTERS,D:/pythonProject_stage/Cleandata_new/source/liste-premiers-ministres-5eme-republique.csv,2026-06-15T00:00:00+00:00,9,9,0,v3-task8,loaded
+BATCH_SRC_GOVERNMENT_MEMBERS,SRC_GOVERNMENT_MEMBERS,D:/pythonProject_stage/Cleandata_new/source/liste-membres-gouvernements-5eme-republique.csv,2026-06-15T00:00:00+00:00,393,393,0,v3-task8,loaded
+BATCH_SRC_HISTORICAL_MINISTERS,SRC_HISTORICAL_MINISTERS,D:/pythonProject_stage/Cleandata_new/source/liste-alphabetique-ministres-de-la-liberation-a-la-veme-republique.xls,2026-06-15T00:00:00+00:00,1301,1301,0,v3-task8,loaded
+BATCH_SRC_MDH_FAFL,SRC_MDH_FAFL,D:/pythonProject_stage/data_1944_1969/memoire_des_hommes/FAFL/FAFL_data.csv,2026-06-15T00:00:00+00:00,1681,1681,0,v3-task8,loaded
+BATCH_SRC_MDH_DEPORTED,SRC_MDH_DEPORTED,D:/pythonProject_stage/data_1944_1969/memoire_des_hommes/deportes_resistants/deportes_resistants_data.csv,2026-06-15T00:00:00+00:00,25442,25442,0,v3-task8,loaded
+BATCH_SRC_MDH_MEDAL,SRC_MDH_MEDAL,D:/pythonProject_stage/data_1944_1969/memoire_des_hommes/medailles_resistance/medailles_resistance_data.csv,2026-06-15T00:00:00+00:00,65281,65281,0,v3-task8,loaded
+BATCH_SRC_MDH_HOMOLOGATION,SRC_MDH_HOMOLOGATION,D:/pythonProject_stage/data_1944_1969/memoire_des_hommes/titres_homologations/titres_homologations_data.csv,2026-06-15T00:00:00+00:00,597004,597004,0,v3-task8,loaded

@@ -1,0 +1,131 @@
+{
+  "titre": "Base de donnees gaulliste multisource - paquet de diffusion",
+  "date_preparation": "2026-06-16",
+  "version": "v3_multisource",
+  "contenu_resume": {
+    "personnes": 66059,
+    "sources_json": 12,
+    "organisations_json": 14,
+    "liens_identite": 66553,
+    "liens_externes": 65449,
+    "appartenances": 66912,
+    "cas_a_reviser": 3837
+  },
+  "fichiers": [
+    {
+      "chemin": "data_registry\\outputs\\multisource\\career_entries_v3.csv",
+      "taille_octets": 486245,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\career_organizations.csv",
+      "taille_octets": 11072205,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\id_registry_v3.csv",
+      "taille_octets": 6140088,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\identity_links_v3.csv",
+      "taille_octets": 12803465,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\identity_master_v3.csv",
+      "taille_octets": 11881188,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\identity_match_candidates.csv",
+      "taille_octets": 77970062,
+      "destination_recommandee": "release_asset"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\membership_rules.csv",
+      "taille_octets": 1631,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\organization_aliases.csv",
+      "taille_octets": 2492,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\organizations.csv",
+      "taille_octets": 1930,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\person_external_ids.csv",
+      "taille_octets": 10117710,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\person_memberships.csv",
+      "taille_octets": 12094685,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\pipeline_summary.json",
+      "taille_octets": 880,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\promoted_identity_candidates.csv",
+      "taille_octets": 9951452,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\source_import_batches.csv",
+      "taille_octets": 1835,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\sources.csv",
+      "taille_octets": 3404,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\staging_government.csv",
+      "taille_octets": 1027991,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\staging_mdh_deportes.csv",
+      "taille_octets": 222956939,
+      "destination_recommandee": "release_asset"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\staging_mdh_fafl.csv",
+      "taille_octets": 1203986,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\staging_mdh_homologations.csv",
+      "taille_octets": 1835972630,
+      "destination_recommandee": "release_asset"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\staging_mdh_medailles.csv",
+      "taille_octets": 245574994,
+      "destination_recommandee": "release_asset"
+    },
+    {
+      "chemin": "data_registry\\outputs\\multisource\\staging_prefets.csv",
+      "taille_octets": 2159032,
+      "destination_recommandee": "repository_or_release"
+    },
+    {
+      "chemin": "postgres_local\\gaullist_db_v3.dump",
+      "taille_octets": 85291389,
+      "destination_recommandee": "release_asset"
+    },
+    {
+      "chemin": "json_db\\v3",
+      "taille_octets": 293530935,
+      "destination_recommandee": "release_asset"
+    }
+  ]
+}

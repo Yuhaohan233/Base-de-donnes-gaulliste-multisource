@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://gaullist-db.local/source_v3.schema.json",
+  "title": "Documentary Source Record v3",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_id",
+    "schema_version",
+    "record_version",
+    "metadata",
+    "bibliography",
+    "import_batches",
+    "contributions"
+  ],
+  "properties": {
+    "source_id": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"},
+    "schema_version": {"const": "3.0"},
+    "record_version": {"type": "integer", "minimum": 1},
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_system",
+        "source_file",
+        "extraction_date",
+        "extracted_by",
+        "extensions"
+      ],
+      "properties": {
+        "source_system": {"type": "string", "minLength": 1},
+        "source_file": {"type": ["string", "null"]},
+        "extraction_date": {"type": ["string", "null"]},
+        "extracted_by": {"type": ["string", "null"]},
+        "extensions": {"type": "object"}
+      }
+    },
+    "bibliography": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "title",
+        "publisher",
+        "url",
+        "lang",
+        "access_date",
+        "reliability_tier",
+        "reliability_note"
+      ],
+      "properties": {
+        "type": {"type": "string"},
+        "title": {"type": "string", "minLength": 1},
+        "publisher": {"type": ["string", "null"]},
+        "url": {"type": ["string", "null"]},
+        "lang": {"type": "string", "minLength": 2},
+        "access_date": {"type": ["string", "null"]},
+        "reliability_tier": {
+          "type": ["string", "null"],
+          "enum": ["A", "B", "C", "D", null]
+        },
+        "reliability_note": {"type": ["string", "null"]}
+      }
+    },
+    "import_batches": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "batch_id",
+          "source_file",
+          "imported_at",
+          "row_count",
+          "success_count",
+          "error_count",
+          "mapping_version",
+          "status"
+        ],
+        "properties": {
+          "batch_id": {"type": "string", "minLength": 1},
+          "source_file": {"type": "string", "minLength": 1},
+          "imported_at": {"type": "string", "minLength": 1},
+          "row_count": {"type": "integer", "minimum": 0},
+          "success_count": {"type": "integer", "minimum": 0},
+          "error_count": {"type": "integer", "minimum": 0},
+          "mapping_version": {"type": "string", "minLength": 1},
+          "status": {"enum": ["loaded", "partial", "failed"]}
+        }
+      }
+    },
+    "contributions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "elite_id",
+          "source_record_ids",
+          "fields_supplied",
+          "match_rules",
+          "match_confidence"
+        ],
+        "properties": {
+          "elite_id": {"type": "string", "pattern": "^FR_ELITE_[0-9]{6}$"},
+          "source_record_ids": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {"type": "string", "minLength": 1}
+          },
+          "fields_supplied": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {"enum": ["identity_links", "memberships", "external_ids"]}
+          },
+          "match_rules": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {"type": "string", "minLength": 1}
+          },
+          "match_confidence": {
+            "type": ["number", "null"],
+            "minimum": 0,
+            "maximum": 1
+          }
+        }
+      }
+    }
+  }
+}

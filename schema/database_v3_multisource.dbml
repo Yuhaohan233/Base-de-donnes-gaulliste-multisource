@@ -1,0 +1,467 @@
+// Gaullist Personalities Database - DBML v3.0
+// Identity-first v2 schema plus multi-source v3 extensions.
+// IMPORTANT: Mirrors the DDL for a new, empty database; do not reapply the DDL to an existing v2 database.
+
+Project gaullist_db_v3 {
+  database_type: 'PostgreSQL'
+}
+
+Table membership_rules {
+  rule_id text [pk]
+  description text [not null]
+  active boolean [default: true]
+  created_at date
+  default_status text [note: "Verified / Inferred / Pending / Rejected"]
+  default_confidence decimal(4,3) [note: "0..1"]
+}
+
+Table relationship_types {
+  relation_type text [pk]
+  relation_category text [not null, note: "proven or potential"]
+  default_strength text [note: "High / Medium / Low"]
+  description text
+}
+
+Table sources {
+  source_id text [pk]
+  source_system text [not null]
+  source_file text
+  title text
+  publisher text
+  url text
+  lang char(2) [default: 'fr']
+  access_date date
+  reliability_tier char(1)
+  extraction_date date
+  extracted_by text
+  notes text
+  extensions jsonb
+}
+
+Table organizations {
+  org_id text [pk]
+  nom_officiel text [not null]
+  nom_court text
+  org_type text
+  org_level text
+  country text [default: 'FR']
+  parent_org_id text [ref: > organizations.org_id]
+  is_gaulliste_marker boolean [default: false]
+  start_date date
+  end_date date
+  notes text
+  extensions jsonb
+}
+
+Table organization_aliases {
+  alias_id bigint [pk, increment]
+  org_id text [not null, ref: > organizations.org_id]
+  alias text [not null]
+  alias_type text
+  source_id text [ref: > sources.source_id]
+
+  indexes {
+    (org_id, alias) [unique]
+  }
+}
+
+Table identity_master {
+  elite_id text [pk, note: "Stable permanent ID, e.g. FR_ELITE_000001"]
+  fingerprint_id text [unique, note: "Hash fingerprint, e.g. FP_7B1A92C3D4F5"]
+  nom text
+  prenom text
+  nom_complet text
+  sexe text
+  birth_date text
+  birth_year text
+  birth_place text
+  death_date text
+  source_groups text
+  sycomore_id text
+  sycomore_url text
+  father_name text
+  father_job text
+  mother_name text
+  mother_job text
+  source_systems text
+  candidate_count integer [default: 1]
+  review_status text [not null, default: 'pending']
+  match_confidence decimal
+  identity_key text
+  created_at date
+  updated_at date
+  extensions jsonb
+}
+
+Table id_registry {
+  elite_id text [pk, ref: > identity_master.elite_id]
+  fingerprint_id text
+  nom text
+  prenom text
+  birth_year text
+  birth_place text
+  source_systems text
+  candidate_count integer
+  review_status text
+  match_confidence decimal
+  registered_at date
+}
+
+Table identity_links {
+  link_id bigint [pk, increment]
+  elite_id text [not null, ref: > identity_master.elite_id]
+  source_system text [not null]
+  source_file text
+  source_record_id text
+  source_url text
+  match_rule text
+  match_confidence decimal
+  created_at date
+  extensions jsonb
+
+  indexes {
+    (elite_id, source_system, source_record_id) [unique]
+  }
+}
+
+Table career_entries {
+  career_id bigint [pk, increment]
+  elite_id text [not null, ref: > identity_master.elite_id]
+  source_system text [not null]
+  source_record_id text
+  career_source_row integer
+  position text
+  regime text
+  legislature text
+  mandat_debut text
+  mandat_fin text
+  departement text
+  circonscription text
+  groupe text
+  groupe_abrev text
+  is_gaulliste text
+  status text
+  suppleant_de text
+  a_eu_suppleant text
+  source_url text
+  created_at date
+  extensions jsonb
+}
+
+Table ambiguous_matches {
+  ambiguous_id bigint [pk, increment]
+  name_key text [not null]
+  candidate_ids text
+  fingerprint_ids text
+  birth_years text
+  birth_places text
+  note text
+  review_decision text
+  reviewed_by text
+  reviewed_at date
+}
+
+Table identity_resolution_reviews {
+  resolution_id text [pk]
+  name_key text [not null]
+  candidate_ids text [not null]
+  review_decision text [not null, note: "same_person / different_people / uncertain"]
+  confidence decimal [not null]
+  evidence_urls text
+  rationale text [not null]
+  reviewed_at date [not null]
+}
+
+Table network_edges {
+  edge_id bigint [pk, increment]
+  elite_id_a text [not null, ref: > identity_master.elite_id]
+  elite_id_b text [not null, ref: > identity_master.elite_id]
+  relation_type text [not null, ref: > relationship_types.relation_type]
+  relation_category text [not null]
+  strength text
+  context text
+  source_system text
+  source_url text
+  created_at date
+  extensions jsonb
+}
+
+Table source_import_batches {
+  batch_id text [pk]
+  source_id text [not null, ref: > sources.source_id]
+  source_file text [not null]
+  imported_at timestamptz [not null, default: `CURRENT_TIMESTAMP`]
+  row_count bigint [not null, note: "CHECK success_count + error_count = row_count"]
+  success_count bigint [not null]
+  error_count bigint [not null]
+  mapping_version text [not null]
+  status text [not null, note: "loaded / partial / failed"]
+}
+
+Table person_external_ids {
+  external_id_id bigint [pk, increment]
+  elite_id text [not null, ref: > identity_master.elite_id, note: "DDL uses ON DELETE CASCADE"]
+  id_system text [not null]
+  external_id text [not null]
+  source_id text [ref: > sources.source_id]
+  match_confidence decimal(4,3) [note: "0..1"]
+  verification_status text [not null, note: "verified / auto_matched / needs_review / rejected"]
+  url text
+
+  indexes {
+    (id_system, external_id) [unique]
+  }
+}
+
+Table person_memberships {
+  membership_id bigint [pk, increment]
+  elite_id text [not null, ref: > identity_master.elite_id, note: "DDL uses ON DELETE CASCADE"]
+  rule_id text [not null, ref: > membership_rules.rule_id]
+  status text [not null, note: "Verified / Inferred / Pending / Rejected"]
+  confidence decimal(4,3) [not null, note: "0..1"]
+  evidence_source_id text [not null, ref: > sources.source_id, note: "DDL rejects SRC_PREFECTS; government sources require Inferred government-service rule within 1940-1973"]
+  evidence_record_id text [not null]
+  org_id text [ref: > organizations.org_id]
+  valid_from date [note: "CHECK valid_from <= valid_to when both are non-NULL"]
+  valid_to date
+  rationale text [not null]
+  reviewed_by text
+  reviewed_at timestamptz
+
+  indexes {
+    (elite_id, rule_id, evidence_source_id, evidence_record_id) [unique]
+  }
+
+  Note: "DDL enforces ck_person_memberships_source_semantics."
+}
+
+Table identity_match_candidates {
+  match_id bigint [pk, increment]
+  source_system text [not null]
+  source_record_id text [not null]
+  candidate_elite_id text [ref: > identity_master.elite_id]
+  match_method text [not null]
+  name_score decimal(4,3) [not null, note: "0..1"]
+  birth_score decimal(4,3) [not null, note: "0..1"]
+  place_score decimal(4,3) [not null, note: "0..1"]
+  external_id_score decimal(4,3) [not null, note: "0..1"]
+  total_score decimal(4,3) [not null, note: "0..1"]
+  has_hard_conflict boolean [not null, default: false]
+  decision text [not null, note: "auto_link / needs_review require candidate; no_match / promote_new require NULL candidate"]
+  review_status text [not null, default: 'pending', note: "pending / accepted / rejected / not_required"]
+
+  indexes {
+    (source_system, source_record_id, candidate_elite_id) [unique]
+  }
+
+  Note: "PostgreSQL DDL uses UNIQUE NULLS NOT DISTINCT for the composite unique constraint."
+}
+
+Table career_organizations {
+  career_org_id bigint [pk, increment]
+  elite_id text [not null, ref: > identity_master.elite_id, note: "DDL uses ON DELETE CASCADE"]
+  org_id text [not null, ref: > organizations.org_id]
+  source_id text [not null, ref: > sources.source_id]
+  source_record_id text [not null]
+  position text
+  start_date date [note: "CHECK start_date <= end_date when both are non-NULL"]
+  end_date date
+  details jsonb [not null, default: '{}']
+
+  indexes {
+    (elite_id, org_id, source_id, source_record_id, position, start_date) [unique]
+  }
+
+  Note: "PostgreSQL DDL uses UNIQUE NULLS NOT DISTINCT for nullable position and start_date."
+}
+
+Table stg_prefets {
+  staging_id bigint [pk, increment]
+  batch_id text [not null, ref: > source_import_batches.batch_id]
+  source_record_id text [not null]
+  nom text
+  prenom text
+  birth_date text
+  birth_year text
+  birth_place text
+  death_date text
+  external_id text
+  raw_record jsonb [not null]
+  processing_status text [not null, default: 'pending', note: "pending / normalized / matched / needs_review / promoted / skipped / error"]
+  processing_error text
+
+  indexes {
+    (batch_id, source_record_id) [unique]
+  }
+}
+
+Table stg_government_members {
+  staging_id bigint [pk, increment]
+  batch_id text [not null, ref: > source_import_batches.batch_id]
+  source_record_id text [not null]
+  nom text
+  prenom text
+  birth_date text
+  birth_year text
+  birth_place text
+  death_date text
+  external_id text
+  raw_record jsonb [not null]
+  processing_status text [not null, default: 'pending', note: "pending / normalized / matched / needs_review / promoted / skipped / error"]
+  processing_error text
+  role_type text
+  position text
+  start_date text
+  end_date text
+  government_name text
+
+  indexes {
+    (batch_id, source_record_id) [unique]
+  }
+}
+
+Table stg_mdh_fafl {
+  staging_id bigint [pk, increment]
+  batch_id text [not null, ref: > source_import_batches.batch_id]
+  source_record_id text [not null]
+  nom text
+  prenom text
+  birth_date text
+  birth_year text
+  birth_place text
+  death_date text
+  external_id text
+  raw_record jsonb [not null]
+  processing_status text [not null, default: 'pending', note: "pending / normalized / matched / needs_review / promoted / skipped / error"]
+  processing_error text
+
+  indexes {
+    (batch_id, source_record_id) [unique]
+  }
+}
+
+Table stg_mdh_deportes {
+  staging_id bigint [pk, increment]
+  batch_id text [not null, ref: > source_import_batches.batch_id]
+  source_record_id text [not null]
+  nom text
+  prenom text
+  birth_date text
+  birth_year text
+  birth_place text
+  death_date text
+  external_id text
+  raw_record jsonb [not null]
+  processing_status text [not null, default: 'pending', note: "pending / normalized / matched / needs_review / promoted / skipped / error"]
+  processing_error text
+
+  indexes {
+    (batch_id, source_record_id) [unique]
+  }
+}
+
+Table stg_mdh_medailles {
+  staging_id bigint [pk, increment]
+  batch_id text [not null, ref: > source_import_batches.batch_id]
+  source_record_id text [not null]
+  nom text
+  prenom text
+  birth_date text
+  birth_year text
+  birth_place text
+  death_date text
+  external_id text
+  raw_record jsonb [not null]
+  processing_status text [not null, default: 'pending', note: "pending / normalized / matched / needs_review / promoted / skipped / error"]
+  processing_error text
+
+  indexes {
+    (batch_id, source_record_id) [unique]
+  }
+}
+
+Table stg_mdh_homologations {
+  staging_id bigint [pk, increment]
+  batch_id text [not null, ref: > source_import_batches.batch_id]
+  source_record_id text [not null]
+  nom text
+  prenom text
+  birth_date text
+  birth_year text
+  birth_place text
+  death_date text
+  external_id text
+  raw_record jsonb [not null]
+  processing_status text [not null, default: 'pending', note: "pending / normalized / matched / needs_review / promoted / skipped / error"]
+  processing_error text
+  movement_family text
+  movement_name text
+  network_name text
+
+  indexes {
+    (batch_id, source_record_id) [unique]
+  }
+}
+
+Table stg_wikidata_matches {
+  staging_id bigint [pk, increment]
+  batch_id text [not null, ref: > source_import_batches.batch_id]
+  source_record_id text [not null]
+  nom text
+  prenom text
+  birth_date text
+  birth_year text
+  birth_place text
+  death_date text
+  external_id text
+  raw_record jsonb [not null]
+  processing_status text [not null, default: 'pending', note: "pending / normalized / matched / needs_review / promoted / skipped / error"]
+  processing_error text
+  query text
+  candidate_qid text
+  score decimal(4,3) [note: "0..1"]
+  decision text [note: "NULL or auto_link / needs_review / no_match / rejected"]
+
+  indexes {
+    (batch_id, source_record_id) [unique]
+  }
+}
+
+TableGroup identity_layer {
+  identity_master
+  id_registry
+  identity_links
+  ambiguous_matches
+  identity_resolution_reviews
+  person_external_ids
+  identity_match_candidates
+}
+
+TableGroup membership_and_career_layer {
+  person_memberships
+  career_entries
+  career_organizations
+  organizations
+  organization_aliases
+}
+
+TableGroup source_and_staging_layer {
+  sources
+  source_import_batches
+  stg_prefets
+  stg_government_members
+  stg_mdh_fafl
+  stg_mdh_deportes
+  stg_mdh_medailles
+  stg_mdh_homologations
+  stg_wikidata_matches
+}
+
+TableGroup network_layer {
+  relationship_types
+  network_edges
+}
+
+TableGroup vocabularies {
+  membership_rules
+}

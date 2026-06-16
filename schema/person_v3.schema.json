@@ -1,0 +1,368 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://gaullist-db.local/person_v3.schema.json",
+  "title": "Gaullist Person Record v3",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "elite_id",
+    "fingerprint_id",
+    "schema_version",
+    "record_version",
+    "metadata",
+    "identity",
+    "social_mobility",
+    "memberships",
+    "external_ids",
+    "identity_links",
+    "career_path",
+    "networks",
+    "sources_used"
+  ],
+  "properties": {
+    "elite_id": {
+      "type": "string",
+      "pattern": "^FR_ELITE_[0-9]{6}$"
+    },
+    "fingerprint_id": {
+      "type": ["string", "null"],
+      "pattern": "^FP_[A-F0-9]{12}$"
+    },
+    "schema_version": {
+      "const": "3.0"
+    },
+    "record_version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "created_at",
+        "last_updated",
+        "lang_primary",
+        "review_status",
+        "match_confidence",
+        "candidate_count"
+      ],
+      "properties": {
+        "created_at": {"type": ["string", "null"]},
+        "last_updated": {"type": ["string", "null"]},
+        "lang_primary": {"type": "string", "minLength": 2},
+        "review_status": {
+          "enum": ["verified", "auto_merged", "pending", "needs_review", "rejected"]
+        },
+        "match_confidence": {
+          "type": ["number", "null"],
+          "minimum": 0,
+          "maximum": 1
+        },
+        "candidate_count": {
+          "type": ["integer", "null"],
+          "minimum": 1
+        }
+      }
+    },
+    "identity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["nom", "prenom", "nom_complet", "sexe", "aliases", "birth", "death"],
+      "properties": {
+        "nom": {"type": ["string", "null"]},
+        "prenom": {"type": ["string", "null"]},
+        "nom_complet": {"type": ["string", "null"]},
+        "sexe": {"enum": ["M", "F", "Unknown"]},
+        "aliases": {
+          "type": "array",
+          "items": {"$ref": "#/definitions/alias"}
+        },
+        "birth": {"$ref": "#/definitions/lifeEvent"},
+        "death": {"$ref": "#/definitions/lifeEvent"}
+      }
+    },
+    "social_mobility": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["father", "mother", "education", "derived", "data_gaps"],
+      "properties": {
+        "father": {"$ref": "#/definitions/parent"},
+        "mother": {"$ref": "#/definitions/parent"},
+        "education": {"type": "array", "items": {"type": "object"}},
+        "derived": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["family_class", "mobility_type", "computed_at"],
+          "properties": {
+            "family_class": {"type": ["string", "null"]},
+            "mobility_type": {"type": ["string", "null"]},
+            "computed_at": {"type": ["string", "null"]}
+          }
+        },
+        "data_gaps": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "memberships": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/membership"}
+    },
+    "external_ids": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/externalId"}
+    },
+    "identity_links": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/identityLink"}
+    },
+    "career_path": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/careerEntry"}
+    },
+    "networks": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["proven_links", "potential_links"],
+      "properties": {
+        "proven_links": {
+          "type": "array",
+          "items": {"$ref": "#/definitions/networkLink"}
+        },
+        "potential_links": {
+          "type": "array",
+          "items": {"$ref": "#/definitions/networkLink"}
+        }
+      }
+    },
+    "sources_used": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"}
+    }
+  },
+  "definitions": {
+    "sourceValue": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_id", "value"],
+      "properties": {
+        "source_id": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"},
+        "value": {"type": ["string", "null"]}
+      }
+    },
+    "canonicalValue": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["canonical", "reported_values"],
+      "properties": {
+        "canonical": {"type": ["string", "null"]},
+        "reported_values": {
+          "type": "array",
+          "items": {"$ref": "#/definitions/sourceValue"}
+        }
+      }
+    },
+    "lifeEvent": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["date", "place"],
+      "properties": {
+        "date": {"$ref": "#/definitions/canonicalValue"},
+        "place": {"$ref": "#/definitions/canonicalValue"}
+      }
+    },
+    "alias": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "type", "period", "source_ref"],
+      "properties": {
+        "value": {"type": "string", "minLength": 1},
+        "type": {"type": "string"},
+        "period": {"type": ["string", "null"]},
+        "source_ref": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"}
+        }
+      }
+    },
+    "parent": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "job", "pcs_code", "source_ref"],
+      "properties": {
+        "name": {"type": ["string", "null"]},
+        "job": {"type": ["string", "null"]},
+        "pcs_code": {"type": ["string", "null"]},
+        "source_ref": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"}
+        }
+      }
+    },
+    "membership": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "rule_id",
+        "rule_description",
+        "status",
+        "confidence",
+        "evidence",
+        "org_id",
+        "valid_from",
+        "valid_to",
+        "rationale",
+        "review"
+      ],
+      "properties": {
+        "rule_id": {"type": "string", "pattern": "^RULE_[A-Z0-9_]+$"},
+        "rule_description": {"type": ["string", "null"]},
+        "status": {"enum": ["Verified", "Inferred", "Pending", "Rejected"]},
+        "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+        "evidence": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["source_id", "record_id"],
+          "properties": {
+            "source_id": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"},
+            "record_id": {"type": "string", "minLength": 1}
+          }
+        },
+        "org_id": {"type": ["string", "null"], "pattern": "^ORG_[A-Z0-9_]+$"},
+        "valid_from": {"type": ["string", "null"]},
+        "valid_to": {"type": ["string", "null"]},
+        "rationale": {"type": "string", "minLength": 1},
+        "review": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["reviewed_by", "reviewed_at"],
+          "properties": {
+            "reviewed_by": {"type": ["string", "null"]},
+            "reviewed_at": {"type": ["string", "null"]}
+          }
+        }
+      }
+    },
+    "externalId": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["system", "value", "source_id", "status", "confidence", "url"],
+      "properties": {
+        "system": {"type": "string", "minLength": 1},
+        "value": {"type": "string", "minLength": 1},
+        "source_id": {"type": ["string", "null"], "pattern": "^SRC_[A-Z0-9_]+$"},
+        "status": {
+          "enum": ["verified", "auto_matched", "needs_review", "rejected"]
+        },
+        "confidence": {"type": ["number", "null"], "minimum": 0, "maximum": 1},
+        "url": {"type": ["string", "null"]}
+      }
+    },
+    "identityLink": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_system",
+        "source_file",
+        "source_record_id",
+        "source_url",
+        "match_rule",
+        "match_confidence",
+        "created_at",
+        "extensions"
+      ],
+      "properties": {
+        "source_system": {"type": "string", "minLength": 1},
+        "source_file": {"type": ["string", "null"]},
+        "source_record_id": {"type": "string", "minLength": 1},
+        "source_url": {"type": ["string", "null"]},
+        "match_rule": {"type": ["string", "null"]},
+        "match_confidence": {"type": ["number", "null"], "minimum": 0, "maximum": 1},
+        "created_at": {"type": ["string", "null"]},
+        "extensions": {"type": "object"}
+      }
+    },
+    "careerEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "career_id",
+        "kind",
+        "org_id",
+        "position",
+        "source_system",
+        "source_record_id",
+        "start_date",
+        "end_date",
+        "mandate_details",
+        "details",
+        "source_ref"
+      ],
+      "properties": {
+        "career_id": {
+          "type": "string",
+          "pattern": "^FR_ELITE_[0-9]{6}-CAR-[LO][0-9]{6}$"
+        },
+        "kind": {"enum": ["career_entry", "organization_membership"]},
+        "org_id": {"type": ["string", "null"], "pattern": "^ORG_[A-Z0-9_]+$"},
+        "position": {"type": ["string", "null"]},
+        "source_system": {"type": "string", "minLength": 1},
+        "source_record_id": {"type": ["string", "null"]},
+        "start_date": {"type": ["string", "null"]},
+        "end_date": {"type": ["string", "null"]},
+        "mandate_details": {
+          "type": ["object", "null"],
+          "additionalProperties": false,
+          "properties": {
+            "regime": {"type": ["string", "null"]},
+            "legislature": {"type": ["string", "null"]},
+            "departement": {"type": ["string", "null"]},
+            "circonscription": {"type": ["string", "null"]},
+            "groupe": {"type": ["string", "null"]},
+            "groupe_abrev": {"type": ["string", "null"]},
+            "status": {"type": ["string", "null"]},
+            "suppleant_de": {"type": ["string", "null"]},
+            "a_eu_suppleant": {"type": ["string", "null"]},
+            "has_suppleant_history": {"type": ["boolean", "null"]},
+            "is_gaulliste": {"type": ["boolean", "null"]}
+          }
+        },
+        "details": {"type": "object"},
+        "source_ref": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"}
+        }
+      }
+    },
+    "networkLink": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "target_elite_id",
+        "relation_type",
+        "relation_category",
+        "strength",
+        "context",
+        "source_url",
+        "source_ref",
+        "extensions"
+      ],
+      "properties": {
+        "target_elite_id": {"type": "string", "pattern": "^FR_ELITE_[0-9]{6}$"},
+        "relation_type": {"type": "string"},
+        "relation_category": {"enum": ["proven", "potential"]},
+        "strength": {"type": ["string", "null"], "enum": ["High", "Medium", "Low", null]},
+        "context": {"type": ["string", "null"]},
+        "source_url": {"type": ["string", "null"]},
+        "source_ref": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"}
+        },
+        "extensions": {"type": "object"}
+      }
+    }
+  }
+}

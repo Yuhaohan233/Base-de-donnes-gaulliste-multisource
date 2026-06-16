@@ -1,0 +1,39 @@
+﻿org_id,alias,alias_type,source_id
+ORG_AN,Assemblée nationale,official,SRC_SYCOMORE
+ORG_AN,AN,abbreviation,SRC_SYCOMORE
+ORG_GROUPE_RPF,Rassemblement du peuple français,official,SRC_SYCOMORE
+ORG_GROUPE_RPF,RPF,abbreviation,SRC_SYCOMORE
+ORG_GROUPE_RPF,Rassemblement du peuple français - ARS,common,SRC_SYCOMORE
+ORG_GROUPE_RS,Républicains sociaux,official,SRC_SYCOMORE
+ORG_GROUPE_RS,RS,abbreviation,SRC_SYCOMORE
+ORG_GROUPE_URAS,Union des républicains d'action sociale,official,SRC_SYCOMORE
+ORG_GROUPE_URAS,URAS,abbreviation,SRC_SYCOMORE
+ORG_GROUPE_UNR,Union pour la Nouvelle République,official,SRC_SYCOMORE
+ORG_GROUPE_UNR,Union pour la nouvelle République,common,SRC_SYCOMORE
+ORG_GROUPE_UNR,UNR,abbreviation,SRC_SYCOMORE
+ORG_GROUPE_UNR_UDT,Union pour la Nouvelle République - Union démocratique du travail,official,SRC_SYCOMORE
+ORG_GROUPE_UNR_UDT,Union pour la nouvelle République-UDT,common,SRC_SYCOMORE
+ORG_GROUPE_UNR_UDT,UNR-UDT,abbreviation,SRC_SYCOMORE
+ORG_GROUPE_UNR_UDT,UNR – UDT,common,SRC_SYCOMORE
+ORG_GROUPE_UNR_UDT,UNR UDT,common,SRC_SYCOMORE
+ORG_GROUPE_UDR,Union des démocrates pour la République,official,SRC_SYCOMORE
+ORG_GROUPE_UDR,UDR,abbreviation,SRC_SYCOMORE
+ORG_FFL,Forces françaises libres,official,SRC_FREE_FRANCE_WIKI
+ORG_FFL,FFL,abbreviation,SRC_FREE_FRANCE_WIKI
+ORG_FFL,Forces Francaises Libres,common,SRC_FREE_FRANCE_WIKI
+ORG_FAFL,Forces aériennes françaises libres,official,SRC_MDH_FAFL
+ORG_FAFL,FAFL,abbreviation,SRC_MDH_FAFL
+ORG_FAFL,Forces aeriennes francaises libres,common,SRC_MDH_FAFL
+ORG_FNFL,Forces navales françaises libres,official,SRC_MDH_HOMOLOGATION
+ORG_FNFL,FNFL,abbreviation,SRC_MDH_HOMOLOGATION
+ORG_FNFL,Forces navales francaises libres,common,SRC_MDH_HOMOLOGATION
+ORG_COMPAGNONS_LIBERATION,Ordre de la Libération,official,SRC_FREE_FRANCE_WIKI
+ORG_COMPAGNONS_LIBERATION,Compagnons de la Libération,common,SRC_FREE_FRANCE_WIKI
+ORG_COMPAGNONS_LIBERATION,Compagnons,short,SRC_FREE_FRANCE_WIKI
+ORG_GOUVERNEMENT_FR,Gouvernement de la République française,official,SRC_GOVERNMENT_MEMBERS
+ORG_GOUVERNEMENT_FR,Gouvernement,short,SRC_GOVERNMENT_MEMBERS
+ORG_PRESIDENCE_REPUBLIQUE,Présidence de la République française,official,SRC_PRESIDENTS
+ORG_PRESIDENCE_REPUBLIQUE,Présidence,short,SRC_PRESIDENTS
+ORG_MINISTERE_INTERIEUR,Ministère de l'Intérieur,official,SRC_PREFECTS
+ORG_MINISTERE_INTERIEUR,Ministere de l'Interieur,common,SRC_PREFECTS
+ORG_MINISTERE_INTERIEUR,Intérieur,short,SRC_PREFECTS

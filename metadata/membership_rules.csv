@@ -1,0 +1,16 @@
+﻿rule_id,description,active,created_at,default_status,default_confidence
+RULE_PARL_RPF,Membre du groupe parlementaire RPF pendant sa période active,true,2026-06-15,Verified,1.0
+RULE_PARL_RS,Membre du groupe parlementaire Républicains sociaux pendant sa période active,true,2026-06-15,Inferred,0.9
+RULE_PARL_URAS,Membre du groupe parlementaire URAS pendant sa période active,true,2026-06-15,Inferred,0.9
+RULE_PARL_UNR,Membre du groupe parlementaire UNR pendant sa période active,true,2026-06-15,Verified,1.0
+RULE_PARL_UNR_UDT,Membre du groupe parlementaire UNR-UDT pendant sa période active,true,2026-06-15,Verified,1.0
+RULE_PARL_UDR,Membre du groupe parlementaire UDR pendant sa période active,true,2026-06-15,Verified,1.0
+RULE_FFL,Membre des Forces françaises libres,true,2026-06-15,Verified,1.0
+RULE_FAFL,Membre des Forces aériennes françaises libres,true,2026-06-15,Verified,1.0
+RULE_FNFL,Membre des Forces navales françaises libres,true,2026-06-15,Verified,1.0
+RULE_COMPAGNON_LIBERATION,Compagnon de la Libération,true,2026-06-15,Verified,1.0
+RULE_RESISTANCE_DEPORTED,Déportation ou internement au titre de la Résistance,true,2026-06-15,Inferred,0.8
+RULE_MEDAILLE_RESISTANCE,Titulaire de la médaille de la Résistance française,true,2026-06-15,Inferred,0.8
+RULE_HOMOLOGATION_FFL,Homologation mentionnant explicitement FFL FAFL ou FNFL,true,2026-06-15,Verified,1.0
+RULE_HOMOLOGATION_OTHER,Homologation de Résistance sans rattachement FFL explicite,true,2026-06-15,Pending,0.5
+RULE_GAULLIST_GOVERNMENT_SERVICE,Service dans un gouvernement de la période gaullienne,true,2026-06-15,Inferred,0.8

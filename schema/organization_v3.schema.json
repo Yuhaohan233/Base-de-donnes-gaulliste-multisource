@@ -1,0 +1,144 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://gaullist-db.local/organization_v3.schema.json",
+  "title": "Organization Record v3",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "org_id",
+    "schema_version",
+    "record_version",
+    "identity",
+    "aliases",
+    "lifespan",
+    "parent_org_id",
+    "child_org_ids",
+    "is_gaulliste_marker",
+    "extensions",
+    "memberships",
+    "career_members",
+    "sources_used"
+  ],
+  "properties": {
+    "org_id": {"type": "string", "pattern": "^ORG_[A-Z0-9_]+$"},
+    "schema_version": {"const": "3.0"},
+    "record_version": {"type": "integer", "minimum": 1},
+    "identity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["nom_officiel", "nom_court", "org_type", "org_level", "country"],
+      "properties": {
+        "nom_officiel": {"type": "string", "minLength": 1},
+        "nom_court": {"type": ["string", "null"]},
+        "org_type": {"type": ["string", "null"]},
+        "org_level": {"type": ["string", "null"]},
+        "country": {"type": "string", "minLength": 2}
+      }
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["value", "type", "source_id"],
+        "properties": {
+          "value": {"type": "string", "minLength": 1},
+          "type": {"type": ["string", "null"]},
+          "source_id": {
+            "type": ["string", "null"],
+            "pattern": "^SRC_[A-Z0-9_]+$"
+          }
+        }
+      }
+    },
+    "lifespan": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start_date", "end_date", "note"],
+      "properties": {
+        "start_date": {"type": ["string", "null"]},
+        "end_date": {"type": ["string", "null"]},
+        "note": {"type": ["string", "null"]}
+      }
+    },
+    "parent_org_id": {
+      "type": ["string", "null"],
+      "pattern": "^ORG_[A-Z0-9_]+$"
+    },
+    "child_org_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {"type": "string", "pattern": "^ORG_[A-Z0-9_]+$"}
+    },
+    "is_gaulliste_marker": {"type": "boolean"},
+    "extensions": {"type": "object"},
+    "memberships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "elite_id",
+          "rule_id",
+          "status",
+          "confidence",
+          "evidence",
+          "valid_from",
+          "valid_to"
+        ],
+        "properties": {
+          "elite_id": {"type": "string", "pattern": "^FR_ELITE_[0-9]{6}$"},
+          "rule_id": {"type": "string", "pattern": "^RULE_[A-Z0-9_]+$"},
+          "status": {"enum": ["Verified", "Inferred", "Pending", "Rejected"]},
+          "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+          "evidence": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["source_id", "record_id"],
+            "properties": {
+              "source_id": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"},
+              "record_id": {"type": "string", "minLength": 1}
+            }
+          },
+          "valid_from": {"type": ["string", "null"]},
+          "valid_to": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "career_members": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "elite_id",
+          "career_id",
+          "position",
+          "start_date",
+          "end_date",
+          "source_ids"
+        ],
+        "properties": {
+          "elite_id": {"type": "string", "pattern": "^FR_ELITE_[0-9]{6}$"},
+          "career_id": {
+            "type": "string",
+            "pattern": "^FR_ELITE_[0-9]{6}-CAR-[LO][0-9]{6}$"
+          },
+          "position": {"type": ["string", "null"]},
+          "start_date": {"type": ["string", "null"]},
+          "end_date": {"type": ["string", "null"]},
+          "source_ids": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"}
+          }
+        }
+      }
+    },
+    "sources_used": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {"type": "string", "pattern": "^SRC_[A-Z0-9_]+$"}
+    }
+  }
+}
