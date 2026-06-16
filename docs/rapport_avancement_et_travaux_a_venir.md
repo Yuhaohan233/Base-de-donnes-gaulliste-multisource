@@ -223,16 +223,3 @@ Après stabilisation des identités, collecter :
 ### Étape 4 : construire le réseau relationnel
 
 Une fois les identités et les informations de carrière plus stables, construire les relations entre individus en distinguant les liens prouvés et les liens potentiels.
-
-## 6. État de livrabilité
-
-La version actuelle peut être transmise comme première version de l'architecture logique à Jean-Pascal Bassino.
-
-Il est conseillé d'accompagner l'envoi en précisant que :
-
-1. l'architecture générale de la base est en place ;
-2. la table maîtresse CSV et les identifiants uniques sont créés ;
-3. les principales sources sont intégrées ;
-4. les formats SQL, DBML et JSON sont disponibles ;
-5. les données sources et les exports sont accessibles dans le dépôt privé et dans la release ;
-6. les prochaines étapes concernent la revue des identités, l'extraction fine des champs Sycomore, la mobilité sociale et les réseaux.
