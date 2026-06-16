@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    {
+      "source_id": "SRC_PRESIDENTS",
+      "type": "short",
+      "value": "Présidence"
+    },
+    {
+      "source_id": "SRC_PRESIDENTS",
+      "type": "official",
+      "value": "Présidence de la République française"
+    }
+  ],
+  "career_members": [],
+  "child_org_ids": [],
+  "extensions": {},
+  "identity": {
+    "country": "FR",
+    "nom_court": "Présidence",
+    "nom_officiel": "Présidence de la République française",
+    "org_level": "National",
+    "org_type": "Executive"
+  },
+  "is_gaulliste_marker": false,
+  "lifespan": {
+    "end_date": null,
+    "note": null,
+    "start_date": "1947-01-16"
+  },
+  "memberships": [],
+  "org_id": "ORG_PRESIDENCE_REPUBLIQUE",
+  "parent_org_id": null,
+  "record_version": 1,
+  "schema_version": "3.0",
+  "sources_used": [
+    "SRC_PRESIDENTS"
+  ]
+}

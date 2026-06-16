@@ -1,0 +1,38 @@
+{
+  "aliases": [
+    {
+      "source_id": "SRC_SYCOMORE",
+      "type": "abbreviation",
+      "value": "URAS"
+    },
+    {
+      "source_id": "SRC_SYCOMORE",
+      "type": "official",
+      "value": "Union des républicains d'action sociale"
+    }
+  ],
+  "career_members": [],
+  "child_org_ids": [],
+  "extensions": {},
+  "identity": {
+    "country": "FR",
+    "nom_court": "URAS",
+    "nom_officiel": "Union des républicains d'action sociale",
+    "org_level": "National",
+    "org_type": "ParliamentaryGroup"
+  },
+  "is_gaulliste_marker": true,
+  "lifespan": {
+    "end_date": "1958-12-31",
+    "note": null,
+    "start_date": "1955-01-01"
+  },
+  "memberships": [],
+  "org_id": "ORG_GROUPE_URAS",
+  "parent_org_id": "ORG_AN",
+  "record_version": 1,
+  "schema_version": "3.0",
+  "sources_used": [
+    "SRC_SYCOMORE"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "bibliography": {
+    "access_date": "2026-06-15",
+    "lang": "fr",
+    "publisher": "Wikimedia Foundation",
+    "reliability_note": "Alignment and external identifiers",
+    "reliability_tier": "B",
+    "title": "Wikidata",
+    "type": "Online_Database_Entry",
+    "url": "https://www.wikidata.org/"
+  },
+  "contributions": [],
+  "import_batches": [],
+  "metadata": {
+    "extensions": {},
+    "extracted_by": "data_registry",
+    "extraction_date": "2026-06-15",
+    "source_file": null,
+    "source_system": "WIKIDATA"
+  },
+  "record_version": 1,
+  "schema_version": "3.0",
+  "source_id": "SRC_WIKIDATA"
+}

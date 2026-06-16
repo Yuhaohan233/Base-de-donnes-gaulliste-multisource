@@ -1,0 +1,8986 @@
+{
+  "bibliography": {
+    "access_date": "2026-06-15",
+    "lang": "fr",
+    "publisher": "Assemblée nationale",
+    "reliability_note": "Official parliamentary biographies and mandates",
+    "reliability_tier": "A",
+    "title": "Base Sycomore",
+    "type": "Online_Database_Entry",
+    "url": "https://www2.assemblee-nationale.fr/sycomore/"
+  },
+  "contributions": [
+    {
+      "elite_id": "FR_ELITE_000001",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "458"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000003",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7319"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000004",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6292"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000006",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "199"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000008",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6718"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000009",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "692"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000010",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "303"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000013",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6745"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000014",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1757"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000019",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5427"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000021",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6139"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000024",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3983"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000027",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "660"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000029",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3484"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000030",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2378"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000032",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5741"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000036",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7173"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000037",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1904"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000038",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "829"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000039",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5713"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000042",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2024"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000046",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4246"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000048",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1841"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000050",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1359"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000052",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2043"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000053",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1058"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000056",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5879"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000057",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7667"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000062",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "573"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000064",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "553"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000065",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2712"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000066",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7269"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000069",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1105"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000071",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6573"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000072",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2372"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000074",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "582"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000100",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6360"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000102",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2511"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000104",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6874"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000117",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1294"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000119",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7864"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000120",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6355"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000121",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1516"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000127",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5020"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000131",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3847"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000134",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3621"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000135",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3110"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000137",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6611"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000147",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7052"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000149",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6474"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000150",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6181"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000151",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5165"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000152",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1766"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000154",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3179"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000155",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4870"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000156",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3743"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000157",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "10179"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000158",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5836"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000159",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4932"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000160",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1892"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000165",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6571"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000166",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7709"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000167",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3002"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000169",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1263"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000170",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7870"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000173",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4394"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000176",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2596"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000179",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3475"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000181",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "544"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000183",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2891"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000188",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6008"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000190",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5984"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000192",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5580"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000195",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2871"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000203",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3377"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000206",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1457"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000207",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5588"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000209",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6892"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000212",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2670"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000217",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7776"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000218",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3831"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000221",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2301"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000222",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1088"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000225",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4005"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000226",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7112"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000227",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7267"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000232",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6209"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000235",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6792"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000238",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1005"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000239",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7785"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000244",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7656"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000249",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "504"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000250",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5701"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000251",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2150"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000253",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6277"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000255",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1798"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000260",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5533"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000262",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5658"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000263",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1907"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000265",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6820"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000266",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7863"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000268",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3815"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000273",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3355"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000274",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1583"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000276",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6504"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000283",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5359"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000287",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "496"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000288",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2768"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000289",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6242"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000290",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7277"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000294",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5395"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000295",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2227"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000298",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6824"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000303",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2774"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000305",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3400"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000307",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "483"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000312",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6563"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000313",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6266"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000315",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2100"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000316",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5565"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000317",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6040"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000326",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6994"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000327",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7228"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000328",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1422"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000330",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5306"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000331",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6199"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000334",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3546"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000338",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3830"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000340",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6750"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000342",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6237"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000343",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2693"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000344",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3685"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000345",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5089"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000349",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6485"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000351",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3044"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000355",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1997"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000358",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6887"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000360",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1621"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000367",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4176"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000372",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7735"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000375",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5824"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000379",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "341"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000381",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "561"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000382",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2069"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000383",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7251"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000384",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3171"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000388",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2991"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000391",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3023"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000396",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7160"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000398",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2115"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000402",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4155"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000403",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6702"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000406",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7083"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000407",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7244"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000408",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5401"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000412",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2055"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000413",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3967"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000415",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4212"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000416",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2196"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000421",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1382"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000428",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7096"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000435",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6809"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000442",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7320"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000446",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6156"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000447",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7196"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000448",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "627"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000451",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1619"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000452",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3073"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000456",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6061"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000457",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1867"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000460",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6804"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000461",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5650"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000463",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2316"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000464",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3729"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000465",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "638"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000466",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2631"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000468",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5298"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000473",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "428"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000474",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1114"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000479",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6793"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000481",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3770"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000482",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1595"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000483",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6717"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000484",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "547"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000485",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3205"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000489",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6487"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000490",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5675"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000491",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6160"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000492",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1474"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000493",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3299"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000495",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6632"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000502",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7262"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000505",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1921"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000506",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7860"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000509",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2600"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000510",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3259"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000511",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7264"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000515",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3734"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000519",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3776"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000520",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "966"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000525",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7059"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000529",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7307"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000534",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6279"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000540",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4118"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000541",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2022"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000543",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5959"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000547",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3283"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000549",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2843"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000550",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1608"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000561",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6572"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000565",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "652"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000566",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1318"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000567",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3266"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000568",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7315"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000569",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3554"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000570",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1857"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000573",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7787"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000577",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3469"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000584",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5187"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000589",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3864"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000591",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3849"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000592",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3337"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000593",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5509"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000594",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5307"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000596",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7580"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000598",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3780"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000602",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5597"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000604",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2947"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000605",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3354"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000612",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4924"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000613",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2548"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000615",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4023"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000618",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5304"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000619",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6347"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000621",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7261"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000625",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6511"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000628",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6015"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000631",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7088"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000632",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7047"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000633",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1486"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000635",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1374"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000638",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3257"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000639",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2351"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000641",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6899"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000657",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7313"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000660",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "797"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000667",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5975"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000672",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "982"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000673",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5458"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000676",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5017"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000681",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3155"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000687",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7330"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000692",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7326"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000698",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1217"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000700",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1860"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000706",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5561"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000714",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2786"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000717",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5922"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000719",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4160"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000721",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5149"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000723",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7071"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000728",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "14"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000730",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6122"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000731",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1817"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000732",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4866"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000735",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6465"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000737",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "231"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000741",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "624"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000749",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4998"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000753",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "895"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000754",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4923"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000758",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1237"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000762",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1055"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000763",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6236"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000773",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5997"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000774",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7124"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000776",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7034"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000778",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1093"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000780",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1081"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000781",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "775"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000786",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6503"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000787",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1654"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000788",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7317"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000794",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6272"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000796",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6877"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000798",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4030"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000800",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "572"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000801",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6448"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000802",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7241"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000805",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6274"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000808",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5556"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000820",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3154"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000821",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6251"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000823",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2922"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000826",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1208"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000827",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3931"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000832",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7140"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000836",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6726"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000838",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7274"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000839",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2814"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000840",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "510"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000842",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3764"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000849",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1143"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000857",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "319"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000860",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2586"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000862",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1719"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000865",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3144"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000866",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1370"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000870",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5459"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000873",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "649"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000874",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3263"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000877",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6749"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000879",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6417"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000880",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7512"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000883",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3548"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000884",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2939"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000889",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2329"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000891",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4847"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000892",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3665"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000893",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "299"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000895",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5447"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000897",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7495"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000900",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2119"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000903",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1853"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000910",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3868"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000913",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4398"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000915",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6576"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000917",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6993"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000920",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7524"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000924",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1765"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000925",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5276"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000927",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "343"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000928",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2807"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000931",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7275"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000933",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3614"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000934",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4100"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000935",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6265"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000943",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6806"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000944",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5319"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000956",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7387"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000960",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7527"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000961",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5866"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000962",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1973"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000964",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7804"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000966",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4137"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000967",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5432"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000969",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3739"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000974",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7329"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000975",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1527"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000976",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1222"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000977",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3971"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000980",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3186"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000983",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "517"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000985",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5534"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000986",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5112"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000993",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6412"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000995",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1014"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000996",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5630"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000998",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5266"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001000",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2436"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001002",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4075"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001003",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3572"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001006",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "832"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001007",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7747"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001015",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1611"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001016",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7568"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001017",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6795"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001018",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6675"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001020",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "588"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001023",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6911"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001028",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "412"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001032",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4007"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001033",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1887"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001035",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4150"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001041",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2767"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001044",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "604"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001045",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7634"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001046",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2812"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001050",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1659"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001051",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7783"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001053",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6800"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001054",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1646"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001055",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3467"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001056",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "557"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001057",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3365"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001060",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7862"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001061",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6143"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001063",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1116"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001065",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2904"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001066",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4969"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001069",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1025"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001070",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "603"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001071",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7323"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001072",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3449"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001077",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3781"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001080",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1935"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001083",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2268"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001088",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2639"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001097",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6288"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001098",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7318"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001099",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7155"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001100",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7151"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001114",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7036"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001115",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3379"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001119",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3974"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001121",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4801"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001122",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4844"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001126",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "703"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001127",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5618"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001129",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7187"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001132",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "401"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001136",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2888"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001142",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4093"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001144",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1368"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001149",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5863"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001151",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7219"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001152",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3291"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001156",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5449"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001158",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5608"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001168",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3677"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001174",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2070"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001176",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "860"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001179",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5234"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001182",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3453"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001183",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2253"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001184",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2299"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001191",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1020"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001194",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3219"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001196",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5303"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001202",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7099"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001205",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4906"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001210",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5035"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001212",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6584"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001216",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6720"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001220",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4116"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001222",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7208"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001223",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6736"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001227",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5291"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001230",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7233"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001235",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7543"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001236",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6007"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001238",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7856"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001240",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "666"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001242",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5842"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001247",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3137"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001249",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7266"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001250",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "919"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001252",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1681"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001254",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3993"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001256",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "779"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001257",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7680"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001261",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "992"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001262",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "762"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001266",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3466"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001269",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4158"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001273",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6690"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001274",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6940"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001276",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1927"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001278",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7309"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001280",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5320"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001284",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7162"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001285",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5862"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001286",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7627"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001288",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4979"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001289",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1949"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001296",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1319"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001297",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6144"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001299",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1877"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001300",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7312"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001303",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6549"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001306",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3429"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001308",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7121"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001309",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "899"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001321",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2508"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001325",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3461"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001328",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3765"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001329",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6283"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001330",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2279"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001332",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2512"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001333",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6006"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001334",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "653"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001337",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6205"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001339",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4031"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001340",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "441"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001341",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2879"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001342",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5872"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001348",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "813"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001351",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4343"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001353",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1691"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001355",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "615"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001356",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5659"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001359",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6541"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001362",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1194"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001366",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5780"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001367",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3889"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001378",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4907"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001379",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3067"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001380",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1820"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001381",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4081"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001385",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3717"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001389",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3950"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001391",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3504"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001393",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "796"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001398",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3537"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001399",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1972"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001400",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7743"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001402",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5315"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001403",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4390"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001404",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4985"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001406",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1164"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001412",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5185"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001413",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6789"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001416",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1985"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001426",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7328"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001432",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "398"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001433",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5336"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001435",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5144"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001436",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2896"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001438",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2109"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001440",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1084"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001441",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "930"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001444",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3486"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001446",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7569"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001450",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2056"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001451",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6410"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001454",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "212"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001458",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "967"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001463",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3083"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001471",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1342"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001472",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7586"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001478",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4117"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001479",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1525"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001481",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3843"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001483",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1426"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001485",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6453"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001486",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5901"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001490",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1732"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001493",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "861"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001496",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5698"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001498",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6976"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001504",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7281"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001506",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1970"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001507",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3652"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001508",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4880"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001510",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5133"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001511",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7706"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001512",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3821"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001514",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2978"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001516",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3065"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001518",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5816"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001521",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7271"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001522",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6359"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001524",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5486"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001526",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6602"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001529",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3277"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001533",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6818"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001534",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2471"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001539",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5191"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001541",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1576"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001543",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "15286"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001545",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "60"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001546",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3036"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001547",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7625"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001548",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5318"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001551",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5220"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001552",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4989"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001555",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "155"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001564",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6387"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001565",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5321"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001568",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "77"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001569",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4200"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001570",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4119"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001574",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "99"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001576",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7273"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001578",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3173"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001579",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3596"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001582",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "808"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001587",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3988"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001589",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5952"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001590",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6737"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001591",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "480"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001595",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3008"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001597",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1309"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001604",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5127"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001610",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "3606"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001612",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "5977"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001613",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4934"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001615",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7146"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001616",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4881"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001619",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "579"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001625",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7103"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001627",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6026"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001628",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "1522"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001634",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "7514"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001635",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "4157"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001641",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2204"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001645",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2503"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001646",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "6036"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001649",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "exact_sycomore_fiche_id"
+      ],
+      "source_record_ids": [
+        "2722"
+      ]
+    }
+  ],
+  "import_batches": [],
+  "metadata": {
+    "extensions": {},
+    "extracted_by": "data_registry",
+    "extraction_date": "2026-06-15",
+    "source_file": "data_registry/inputs/gaullistes_sycomore.csv",
+    "source_system": "SYCOMORE"
+  },
+  "record_version": 1,
+  "schema_version": "3.0",
+  "source_id": "SRC_SYCOMORE"
+}

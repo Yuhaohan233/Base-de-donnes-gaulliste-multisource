@@ -1,0 +1,546 @@
+{
+  "aliases": [
+    {
+      "source_id": "SRC_SYCOMORE",
+      "type": "abbreviation",
+      "value": "RS"
+    },
+    {
+      "source_id": "SRC_SYCOMORE",
+      "type": "official",
+      "value": "Républicains sociaux"
+    }
+  ],
+  "career_members": [
+    {
+      "career_id": "FR_ELITE_000117-CAR-O000060",
+      "elite_id": "FR_ELITE_000117",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000119-CAR-O000062",
+      "elite_id": "FR_ELITE_000119",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000157-CAR-O000091",
+      "elite_id": "FR_ELITE_000157",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-19"
+    },
+    {
+      "career_id": "FR_ELITE_000158-CAR-O000095",
+      "elite_id": "FR_ELITE_000158",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000176-CAR-O000109",
+      "elite_id": "FR_ELITE_000176",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000209-CAR-O000128",
+      "elite_id": "FR_ELITE_000209",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000288-CAR-O000184",
+      "elite_id": "FR_ELITE_000288",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-03-16"
+    },
+    {
+      "career_id": "FR_ELITE_000327-CAR-O000208",
+      "elite_id": "FR_ELITE_000327",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000355-CAR-O000233",
+      "elite_id": "FR_ELITE_000355",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000485-CAR-O000319",
+      "elite_id": "FR_ELITE_000485",
+      "end_date": "1955-12-01",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1952-04-06"
+    },
+    {
+      "career_id": "FR_ELITE_000493-CAR-O000326",
+      "elite_id": "FR_ELITE_000493",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000754-CAR-O000477",
+      "elite_id": "FR_ELITE_000754",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000780-CAR-O000496",
+      "elite_id": "FR_ELITE_000780",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000808-CAR-O000523",
+      "elite_id": "FR_ELITE_000808",
+      "end_date": "1958-01-22",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000839-CAR-O000541",
+      "elite_id": "FR_ELITE_000839",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000962-CAR-O000604",
+      "elite_id": "FR_ELITE_000962",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000976-CAR-O000616",
+      "elite_id": "FR_ELITE_000976",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000983-CAR-O000624",
+      "elite_id": "FR_ELITE_000983",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_000996-CAR-O000632",
+      "elite_id": "FR_ELITE_000996",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_001035-CAR-O000656",
+      "elite_id": "FR_ELITE_001035",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_001100-CAR-O000710",
+      "elite_id": "FR_ELITE_001100",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    },
+    {
+      "career_id": "FR_ELITE_001340-CAR-O000865",
+      "elite_id": "FR_ELITE_001340",
+      "end_date": "1955-12-01",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1954-06-27"
+    },
+    {
+      "career_id": "FR_ELITE_001604-CAR-O001038",
+      "elite_id": "FR_ELITE_001604",
+      "end_date": "1958-12-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1956-01-02"
+    }
+  ],
+  "child_org_ids": [],
+  "extensions": {},
+  "identity": {
+    "country": "FR",
+    "nom_court": "RS",
+    "nom_officiel": "Républicains sociaux",
+    "org_level": "National",
+    "org_type": "ParliamentaryGroup"
+  },
+  "is_gaulliste_marker": true,
+  "lifespan": {
+    "end_date": "1958-12-31",
+    "note": null,
+    "start_date": "1955-01-01"
+  },
+  "memberships": [
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000117",
+      "evidence": {
+        "record_id": "1294",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000119",
+      "evidence": {
+        "record_id": "7864",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000157",
+      "evidence": {
+        "record_id": "10179",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-19",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000158",
+      "evidence": {
+        "record_id": "5836",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000176",
+      "evidence": {
+        "record_id": "2596",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000209",
+      "evidence": {
+        "record_id": "6892",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000288",
+      "evidence": {
+        "record_id": "2768",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1958-03-16",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000327",
+      "evidence": {
+        "record_id": "7228",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000355",
+      "evidence": {
+        "record_id": "1997",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000485",
+      "evidence": {
+        "record_id": "3205",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1952-04-06",
+      "valid_to": "1955-12-01"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000493",
+      "evidence": {
+        "record_id": "3299",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000754",
+      "evidence": {
+        "record_id": "4923",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000780",
+      "evidence": {
+        "record_id": "1081",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000808",
+      "evidence": {
+        "record_id": "5556",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-01-22"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000839",
+      "evidence": {
+        "record_id": "2814",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000962",
+      "evidence": {
+        "record_id": "1973",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000976",
+      "evidence": {
+        "record_id": "1222",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000983",
+      "evidence": {
+        "record_id": "517",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_000996",
+      "evidence": {
+        "record_id": "5630",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_001035",
+      "evidence": {
+        "record_id": "4150",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_001100",
+      "evidence": {
+        "record_id": "7151",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_001340",
+      "evidence": {
+        "record_id": "441",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1954-06-27",
+      "valid_to": "1955-12-01"
+    },
+    {
+      "confidence": 0.9,
+      "elite_id": "FR_ELITE_001604",
+      "evidence": {
+        "record_id": "5127",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_RS",
+      "status": "Inferred",
+      "valid_from": "1956-01-02",
+      "valid_to": "1958-12-08"
+    }
+  ],
+  "org_id": "ORG_GROUPE_RS",
+  "parent_org_id": "ORG_AN",
+  "record_version": 1,
+  "schema_version": "3.0",
+  "sources_used": [
+    "SRC_SYCOMORE"
+  ]
+}

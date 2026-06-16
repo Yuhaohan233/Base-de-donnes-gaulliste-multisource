@@ -1,0 +1,35 @@
+{
+  "bibliography": {
+    "access_date": "2026-06-15",
+    "lang": "fr",
+    "publisher": "Gouvernement français",
+    "reliability_note": "Official prime minister mandates",
+    "reliability_tier": "A",
+    "title": "Premiers ministres",
+    "type": "Online_Database_Entry",
+    "url": "https://www.gouvernement.fr/"
+  },
+  "contributions": [],
+  "import_batches": [
+    {
+      "batch_id": "BATCH_SRC_PRIME_MINISTERS",
+      "error_count": 0,
+      "imported_at": "2026-06-15 02:00:00+02",
+      "mapping_version": "v3-task8",
+      "row_count": 9,
+      "source_file": "D:/pythonProject_stage/Cleandata_new/source/liste-premiers-ministres-5eme-republique.csv",
+      "status": "loaded",
+      "success_count": 9
+    }
+  ],
+  "metadata": {
+    "extensions": {},
+    "extracted_by": "data_registry",
+    "extraction_date": "2026-06-15",
+    "source_file": "Cleandata_new/source/liste-premiers-ministres-5eme-republique.csv",
+    "source_system": "PRIME_MINISTER"
+  },
+  "record_version": 1,
+  "schema_version": "3.0",
+  "source_id": "SRC_PRIME_MINISTERS"
+}

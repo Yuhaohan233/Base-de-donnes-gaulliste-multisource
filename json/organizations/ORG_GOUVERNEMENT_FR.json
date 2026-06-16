@@ -1,0 +1,40 @@
+{
+  "aliases": [
+    {
+      "source_id": "SRC_GOVERNMENT_MEMBERS",
+      "type": "short",
+      "value": "Gouvernement"
+    },
+    {
+      "source_id": "SRC_GOVERNMENT_MEMBERS",
+      "type": "official",
+      "value": "Gouvernement de la République française"
+    }
+  ],
+  "career_members": [],
+  "child_org_ids": [
+    "ORG_MINISTERE_INTERIEUR"
+  ],
+  "extensions": {},
+  "identity": {
+    "country": "FR",
+    "nom_court": "Gouvernement",
+    "nom_officiel": "Gouvernement de la République française",
+    "org_level": "National",
+    "org_type": "Executive"
+  },
+  "is_gaulliste_marker": false,
+  "lifespan": {
+    "end_date": null,
+    "note": null,
+    "start_date": "1944-09-10"
+  },
+  "memberships": [],
+  "org_id": "ORG_GOUVERNEMENT_FR",
+  "parent_org_id": null,
+  "record_version": 1,
+  "schema_version": "3.0",
+  "sources_used": [
+    "SRC_GOVERNMENT_MEMBERS"
+  ]
+}

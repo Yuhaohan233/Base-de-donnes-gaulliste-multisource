@@ -6,6 +6,7 @@ Ce dépôt présente une version de diffusion de la base de données construite 
 
 - `schema/` : schéma SQL PostgreSQL, schéma DBML pour dbdiagram.io, schémas JSON et scripts SQL d'import/vérification.
 - `data/` : tables CSV maîtresses, registre des identifiants et fichiers sources disponibles.
+- `json/` : fichiers JSON visibles par source et par organisation ; l'export complet des personnes est fourni dans la release.
 - `docs/` : description de l'architecture, logique de revue des identités et guide de restauration.
 - `review/` : fichier des cas d'identité à vérifier manuellement et synthèse de la file de revue.
 - `metadata/` : catalogue des sources, organisations, règles d'appartenance et manifeste de diffusion.

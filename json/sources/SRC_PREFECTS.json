@@ -1,0 +1,35 @@
+{
+  "bibliography": {
+    "access_date": "2026-06-15",
+    "lang": "fr",
+    "publisher": "Ministère de l'Intérieur",
+    "reliability_note": "Staging only; no automatic membership rule",
+    "reliability_tier": "A",
+    "title": "Préfets et préfètes français depuis 1800",
+    "type": "Online_Database_Entry",
+    "url": "https://www.data.gouv.fr/datasets/prefets-et-prefetes-francais-depuis-1800"
+  },
+  "contributions": [],
+  "import_batches": [
+    {
+      "batch_id": "BATCH_SRC_PREFECTS",
+      "error_count": 0,
+      "imported_at": "2026-06-15 02:00:00+02",
+      "mapping_version": "v3-task8",
+      "row_count": 3899,
+      "source_file": "D:/pythonProject_stage/Cleandata_new/source/prefets-et-prefetes-francais-depuis-1800.csv",
+      "status": "loaded",
+      "success_count": 3899
+    }
+  ],
+  "metadata": {
+    "extensions": {},
+    "extracted_by": "data_registry",
+    "extraction_date": "2026-06-15",
+    "source_file": "Cleandata_new/source/prefets-et-prefetes-francais-depuis-1800.csv",
+    "source_system": "PREFECT"
+  },
+  "record_version": 1,
+  "schema_version": "3.0",
+  "source_id": "SRC_PREFECTS"
+}

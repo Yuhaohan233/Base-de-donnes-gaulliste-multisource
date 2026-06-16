@@ -1,0 +1,456 @@
+{
+  "bibliography": {
+    "access_date": "2026-06-15",
+    "lang": "fr",
+    "publisher": "Mémoire des hommes",
+    "reliability_note": "Resistance deportation evidence",
+    "reliability_tier": "A",
+    "title": "Déportés et internés résistants",
+    "type": "Online_Database_Entry",
+    "url": "https://www.memoiredeshommes.sga.defense.gouv.fr/"
+  },
+  "contributions": [
+    {
+      "elite_id": "FR_ELITE_000024",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_19911"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000071",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_10244"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000226",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_4672"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000242",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_6525"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000302",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_6307"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000326",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_8748"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000341",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_16225"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000568",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_5494"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000609",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_10993"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000642",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_23526"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000672",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_9783"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000681",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_11605"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000691",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_5736"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000880",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_6227"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000945",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_5679"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000946",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_21105"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000956",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_3271"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001000",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_8781"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001054",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_20132"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001069",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_17399"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001152",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_22905"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001257",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_6093"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001324",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_16192"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001335",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_4429"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001342",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_5862"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001480",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_6899"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001504",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_10670"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001570",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_13893"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001591",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_4901"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001626",
+      "fields_supplied": [
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_DEPORTED_2900"
+      ]
+    }
+  ],
+  "import_batches": [
+    {
+      "batch_id": "BATCH_SRC_MDH_DEPORTED",
+      "error_count": 0,
+      "imported_at": "2026-06-15 02:00:00+02",
+      "mapping_version": "v3-task8",
+      "row_count": 25442,
+      "source_file": "D:/pythonProject_stage/data_1944_1969/memoire_des_hommes/deportes_resistants/deportes_resistants_data.csv",
+      "status": "loaded",
+      "success_count": 25442
+    }
+  ],
+  "metadata": {
+    "extensions": {},
+    "extracted_by": "data_registry",
+    "extraction_date": "2026-06-15",
+    "source_file": "data_1944_1969/memoire_des_hommes/deportes_resistants/deportes_resistants_data.csv",
+    "source_system": "MDH_DEPORTED"
+  },
+  "record_version": 1,
+  "schema_version": "3.0",
+  "source_id": "SRC_MDH_DEPORTED"
+}

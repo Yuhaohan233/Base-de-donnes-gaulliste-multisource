@@ -1,0 +1,4489 @@
+{
+  "aliases": [
+    {
+      "source_id": "SRC_SYCOMORE",
+      "type": "abbreviation",
+      "value": "UNR"
+    },
+    {
+      "source_id": "SRC_SYCOMORE",
+      "type": "official",
+      "value": "Union pour la Nouvelle République"
+    },
+    {
+      "source_id": "SRC_SYCOMORE",
+      "type": "common",
+      "value": "Union pour la nouvelle République"
+    }
+  ],
+  "career_members": [
+    {
+      "career_id": "FR_ELITE_000014-CAR-O000011",
+      "elite_id": "FR_ELITE_000014",
+      "end_date": "1962-07-03",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-02-09"
+    },
+    {
+      "career_id": "FR_ELITE_000019-CAR-O000013",
+      "elite_id": "FR_ELITE_000019",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000021-CAR-O000015",
+      "elite_id": "FR_ELITE_000021",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000030-CAR-O000019",
+      "elite_id": "FR_ELITE_000030",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000032-CAR-O000020",
+      "elite_id": "FR_ELITE_000032",
+      "end_date": "1960-06-04",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000037-CAR-O000022",
+      "elite_id": "FR_ELITE_000037",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000038-CAR-O000025",
+      "elite_id": "FR_ELITE_000038",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-23"
+    },
+    {
+      "career_id": "FR_ELITE_000042-CAR-O000029",
+      "elite_id": "FR_ELITE_000042",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000053-CAR-O000038",
+      "elite_id": "FR_ELITE_000053",
+      "end_date": "1961-09-24",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000066-CAR-O000045",
+      "elite_id": "FR_ELITE_000066",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-02-09"
+    },
+    {
+      "career_id": "FR_ELITE_000069-CAR-O000046",
+      "elite_id": "FR_ELITE_000069",
+      "end_date": "1961-06-02",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000071-CAR-O000048",
+      "elite_id": "FR_ELITE_000071",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000102-CAR-O000056",
+      "elite_id": "FR_ELITE_000102",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000119-CAR-O000063",
+      "elite_id": "FR_ELITE_000119",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000121-CAR-O000065",
+      "elite_id": "FR_ELITE_000121",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000135-CAR-O000073",
+      "elite_id": "FR_ELITE_000135",
+      "end_date": "1960-03-06",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-03-07"
+    },
+    {
+      "career_id": "FR_ELITE_000137-CAR-O000075",
+      "elite_id": "FR_ELITE_000137",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1960-12-01"
+    },
+    {
+      "career_id": "FR_ELITE_000147-CAR-O000078",
+      "elite_id": "FR_ELITE_000147",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000150-CAR-O000082",
+      "elite_id": "FR_ELITE_000150",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000151-CAR-O000084",
+      "elite_id": "FR_ELITE_000151",
+      "end_date": "1962-07-03",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000157-CAR-O000093",
+      "elite_id": "FR_ELITE_000157",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_000159-CAR-O000096",
+      "elite_id": "FR_ELITE_000159",
+      "end_date": "1962-07-03",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000173-CAR-O000106",
+      "elite_id": "FR_ELITE_000173",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000176-CAR-O000110",
+      "elite_id": "FR_ELITE_000176",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000192-CAR-O000118",
+      "elite_id": "FR_ELITE_000192",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000206-CAR-O000123",
+      "elite_id": "FR_ELITE_000206",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000207-CAR-O000125",
+      "elite_id": "FR_ELITE_000207",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_000209-CAR-O000129",
+      "elite_id": "FR_ELITE_000209",
+      "end_date": "1959-02-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000212-CAR-O000130",
+      "elite_id": "FR_ELITE_000212",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000221-CAR-O000138",
+      "elite_id": "FR_ELITE_000221",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000226-CAR-O000144",
+      "elite_id": "FR_ELITE_000226",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000227-CAR-O000146",
+      "elite_id": "FR_ELITE_000227",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000232-CAR-O000149",
+      "elite_id": "FR_ELITE_000232",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-05-31"
+    },
+    {
+      "career_id": "FR_ELITE_000239-CAR-O000155",
+      "elite_id": "FR_ELITE_000239",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000250-CAR-O000160",
+      "elite_id": "FR_ELITE_000250",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_000283-CAR-O000180",
+      "elite_id": "FR_ELITE_000283",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000288-CAR-O000185",
+      "elite_id": "FR_ELITE_000288",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000290-CAR-O000189",
+      "elite_id": "FR_ELITE_000290",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000294-CAR-O000191",
+      "elite_id": "FR_ELITE_000294",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000295-CAR-O000193",
+      "elite_id": "FR_ELITE_000295",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000298-CAR-O000195",
+      "elite_id": "FR_ELITE_000298",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000307-CAR-O000199",
+      "elite_id": "FR_ELITE_000307",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000326-CAR-O000206",
+      "elite_id": "FR_ELITE_000326",
+      "end_date": "1960-03-05",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000327-CAR-O000209",
+      "elite_id": "FR_ELITE_000327",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-23"
+    },
+    {
+      "career_id": "FR_ELITE_000343-CAR-O000223",
+      "elite_id": "FR_ELITE_000343",
+      "end_date": "1962-05-15",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000344-CAR-O000225",
+      "elite_id": "FR_ELITE_000344",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000349-CAR-O000230",
+      "elite_id": "FR_ELITE_000349",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1961-09-26"
+    },
+    {
+      "career_id": "FR_ELITE_000367-CAR-O000238",
+      "elite_id": "FR_ELITE_000367",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000375-CAR-O000243",
+      "elite_id": "FR_ELITE_000375",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000381-CAR-O000248",
+      "elite_id": "FR_ELITE_000381",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000398-CAR-O000258",
+      "elite_id": "FR_ELITE_000398",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000403-CAR-O000263",
+      "elite_id": "FR_ELITE_000403",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000408-CAR-O000268",
+      "elite_id": "FR_ELITE_000408",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000413-CAR-O000272",
+      "elite_id": "FR_ELITE_000413",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000421-CAR-O000280",
+      "elite_id": "FR_ELITE_000421",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000428-CAR-O000284",
+      "elite_id": "FR_ELITE_000428",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000446-CAR-O000289",
+      "elite_id": "FR_ELITE_000446",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000465-CAR-O000306",
+      "elite_id": "FR_ELITE_000465",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_000492-CAR-O000323",
+      "elite_id": "FR_ELITE_000492",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000502-CAR-O000329",
+      "elite_id": "FR_ELITE_000502",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000506-CAR-O000333",
+      "elite_id": "FR_ELITE_000506",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-04-12"
+    },
+    {
+      "career_id": "FR_ELITE_000509-CAR-O000334",
+      "elite_id": "FR_ELITE_000509",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000511-CAR-O000337",
+      "elite_id": "FR_ELITE_000511",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000520-CAR-O000346",
+      "elite_id": "FR_ELITE_000520",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000525-CAR-O000349",
+      "elite_id": "FR_ELITE_000525",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000534-CAR-O000354",
+      "elite_id": "FR_ELITE_000534",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000549-CAR-O000361",
+      "elite_id": "FR_ELITE_000549",
+      "end_date": "1962-06-04",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000566-CAR-O000370",
+      "elite_id": "FR_ELITE_000566",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000567-CAR-O000371",
+      "elite_id": "FR_ELITE_000567",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000569-CAR-O000374",
+      "elite_id": "FR_ELITE_000569",
+      "end_date": "1962-07-03",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000570-CAR-O000375",
+      "elite_id": "FR_ELITE_000570",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000589-CAR-O000382",
+      "elite_id": "FR_ELITE_000589",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000591-CAR-O000384",
+      "elite_id": "FR_ELITE_000591",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000594-CAR-O000389",
+      "elite_id": "FR_ELITE_000594",
+      "end_date": "1961-09-25",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_000612-CAR-O000401",
+      "elite_id": "FR_ELITE_000612",
+      "end_date": "1961-09-24",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000618-CAR-O000405",
+      "elite_id": "FR_ELITE_000618",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000619-CAR-O000408",
+      "elite_id": "FR_ELITE_000619",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000621-CAR-O000410",
+      "elite_id": "FR_ELITE_000621",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000625-CAR-O000412",
+      "elite_id": "FR_ELITE_000625",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000672-CAR-O000433",
+      "elite_id": "FR_ELITE_000672",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000681-CAR-O000439",
+      "elite_id": "FR_ELITE_000681",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-02-09"
+    },
+    {
+      "career_id": "FR_ELITE_000698-CAR-O000444",
+      "elite_id": "FR_ELITE_000698",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000714-CAR-O000451",
+      "elite_id": "FR_ELITE_000714",
+      "end_date": "1962-05-15",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000721-CAR-O000455",
+      "elite_id": "FR_ELITE_000721",
+      "end_date": "1962-05-15",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000730-CAR-O000461",
+      "elite_id": "FR_ELITE_000730",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000741-CAR-O000468",
+      "elite_id": "FR_ELITE_000741",
+      "end_date": "1962-07-03",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000753-CAR-O000474",
+      "elite_id": "FR_ELITE_000753",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000758-CAR-O000480",
+      "elite_id": "FR_ELITE_000758",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000762-CAR-O000483",
+      "elite_id": "FR_ELITE_000762",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000774-CAR-O000488",
+      "elite_id": "FR_ELITE_000774",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000778-CAR-O000492",
+      "elite_id": "FR_ELITE_000778",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000780-CAR-O000498",
+      "elite_id": "FR_ELITE_000780",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000794-CAR-O000509",
+      "elite_id": "FR_ELITE_000794",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-02-09"
+    },
+    {
+      "career_id": "FR_ELITE_000796-CAR-O000512",
+      "elite_id": "FR_ELITE_000796",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000800-CAR-O000517",
+      "elite_id": "FR_ELITE_000800",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000836-CAR-O000536",
+      "elite_id": "FR_ELITE_000836",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000838-CAR-O000539",
+      "elite_id": "FR_ELITE_000838",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_000860-CAR-O000549",
+      "elite_id": "FR_ELITE_000860",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000873-CAR-O000555",
+      "elite_id": "FR_ELITE_000873",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000874-CAR-O000557",
+      "elite_id": "FR_ELITE_000874",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-23"
+    },
+    {
+      "career_id": "FR_ELITE_000880-CAR-O000560",
+      "elite_id": "FR_ELITE_000880",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000891-CAR-O000568",
+      "elite_id": "FR_ELITE_000891",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000895-CAR-O000572",
+      "elite_id": "FR_ELITE_000895",
+      "end_date": "1962-07-03",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000897-CAR-O000573",
+      "elite_id": "FR_ELITE_000897",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-05-10"
+    },
+    {
+      "career_id": "FR_ELITE_000903-CAR-O000577",
+      "elite_id": "FR_ELITE_000903",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-23"
+    },
+    {
+      "career_id": "FR_ELITE_000928-CAR-O000589",
+      "elite_id": "FR_ELITE_000928",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000931-CAR-O000591",
+      "elite_id": "FR_ELITE_000931",
+      "end_date": "1960-01-05",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000933-CAR-O000593",
+      "elite_id": "FR_ELITE_000933",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_000935-CAR-O000596",
+      "elite_id": "FR_ELITE_000935",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000956-CAR-O000600",
+      "elite_id": "FR_ELITE_000956",
+      "end_date": "1962-06-19",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1962-05-16"
+    },
+    {
+      "career_id": "FR_ELITE_000960-CAR-O000601",
+      "elite_id": "FR_ELITE_000960",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000966-CAR-O000607",
+      "elite_id": "FR_ELITE_000966",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000976-CAR-O000618",
+      "elite_id": "FR_ELITE_000976",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000985-CAR-O000626",
+      "elite_id": "FR_ELITE_000985",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_000995-CAR-O000631",
+      "elite_id": "FR_ELITE_000995",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001003-CAR-O000635",
+      "elite_id": "FR_ELITE_001003",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001016-CAR-O000641",
+      "elite_id": "FR_ELITE_001016",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001017-CAR-O000643",
+      "elite_id": "FR_ELITE_001017",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-23"
+    },
+    {
+      "career_id": "FR_ELITE_001020-CAR-O000646",
+      "elite_id": "FR_ELITE_001020",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1961-06-03"
+    },
+    {
+      "career_id": "FR_ELITE_001032-CAR-O000652",
+      "elite_id": "FR_ELITE_001032",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_001046-CAR-O000661",
+      "elite_id": "FR_ELITE_001046",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001050-CAR-O000665",
+      "elite_id": "FR_ELITE_001050",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001054-CAR-O000670",
+      "elite_id": "FR_ELITE_001054",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001056-CAR-O000673",
+      "elite_id": "FR_ELITE_001056",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001065-CAR-O000681",
+      "elite_id": "FR_ELITE_001065",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_001066-CAR-O000684",
+      "elite_id": "FR_ELITE_001066",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001070-CAR-O000688",
+      "elite_id": "FR_ELITE_001070",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001080-CAR-O000695",
+      "elite_id": "FR_ELITE_001080",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001088-CAR-O000702",
+      "elite_id": "FR_ELITE_001088",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1962-05-15"
+    },
+    {
+      "career_id": "FR_ELITE_001097-CAR-O000705",
+      "elite_id": "FR_ELITE_001097",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001100-CAR-O000712",
+      "elite_id": "FR_ELITE_001100",
+      "end_date": "1959-02-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-23"
+    },
+    {
+      "career_id": "FR_ELITE_001115-CAR-O000718",
+      "elite_id": "FR_ELITE_001115",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1962-06-05"
+    },
+    {
+      "career_id": "FR_ELITE_001119-CAR-O000721",
+      "elite_id": "FR_ELITE_001119",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001121-CAR-O000724",
+      "elite_id": "FR_ELITE_001121",
+      "end_date": "1962-07-03",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001126-CAR-O000727",
+      "elite_id": "FR_ELITE_001126",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001149-CAR-O000736",
+      "elite_id": "FR_ELITE_001149",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001151-CAR-O000740",
+      "elite_id": "FR_ELITE_001151",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001156-CAR-O000744",
+      "elite_id": "FR_ELITE_001156",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001191-CAR-O000760",
+      "elite_id": "FR_ELITE_001191",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001196-CAR-O000762",
+      "elite_id": "FR_ELITE_001196",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001205-CAR-O000767",
+      "elite_id": "FR_ELITE_001205",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001220-CAR-O000774",
+      "elite_id": "FR_ELITE_001220",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001227-CAR-O000780",
+      "elite_id": "FR_ELITE_001227",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1960-05-29"
+    },
+    {
+      "career_id": "FR_ELITE_001235-CAR-O000785",
+      "elite_id": "FR_ELITE_001235",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001249-CAR-O000795",
+      "elite_id": "FR_ELITE_001249",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001252-CAR-O000800",
+      "elite_id": "FR_ELITE_001252",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001256-CAR-O000804",
+      "elite_id": "FR_ELITE_001256",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001257-CAR-O000805",
+      "elite_id": "FR_ELITE_001257",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001261-CAR-O000809",
+      "elite_id": "FR_ELITE_001261",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001262-CAR-O000811",
+      "elite_id": "FR_ELITE_001262",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001273-CAR-O000816",
+      "elite_id": "FR_ELITE_001273",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001274-CAR-O000819",
+      "elite_id": "FR_ELITE_001274",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001280-CAR-O000825",
+      "elite_id": "FR_ELITE_001280",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1962-03-04"
+    },
+    {
+      "career_id": "FR_ELITE_001285-CAR-O000830",
+      "elite_id": "FR_ELITE_001285",
+      "end_date": "1962-05-15",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_001286-CAR-O000833",
+      "elite_id": "FR_ELITE_001286",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001288-CAR-O000835",
+      "elite_id": "FR_ELITE_001288",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001299-CAR-O000840",
+      "elite_id": "FR_ELITE_001299",
+      "end_date": "1962-10-31",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1962-05-15"
+    },
+    {
+      "career_id": "FR_ELITE_001303-CAR-O000844",
+      "elite_id": "FR_ELITE_001303",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001325-CAR-O000851",
+      "elite_id": "FR_ELITE_001325",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_001328-CAR-O000854",
+      "elite_id": "FR_ELITE_001328",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001329-CAR-O000857",
+      "elite_id": "FR_ELITE_001329",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001330-CAR-O000858",
+      "elite_id": "FR_ELITE_001330",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001334-CAR-O000861",
+      "elite_id": "FR_ELITE_001334",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-02-09"
+    },
+    {
+      "career_id": "FR_ELITE_001337-CAR-O000862",
+      "elite_id": "FR_ELITE_001337",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001341-CAR-O000866",
+      "elite_id": "FR_ELITE_001341",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001342-CAR-O000868",
+      "elite_id": "FR_ELITE_001342",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001351-CAR-O000874",
+      "elite_id": "FR_ELITE_001351",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001356-CAR-O000880",
+      "elite_id": "FR_ELITE_001356",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001366-CAR-O000886",
+      "elite_id": "FR_ELITE_001366",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001378-CAR-O000891",
+      "elite_id": "FR_ELITE_001378",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001385-CAR-O000899",
+      "elite_id": "FR_ELITE_001385",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001391-CAR-O000902",
+      "elite_id": "FR_ELITE_001391",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1959-04-19"
+    },
+    {
+      "career_id": "FR_ELITE_001393-CAR-O000905",
+      "elite_id": "FR_ELITE_001393",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001402-CAR-O000914",
+      "elite_id": "FR_ELITE_001402",
+      "end_date": "1961-04-25",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_001403-CAR-O000915",
+      "elite_id": "FR_ELITE_001403",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1961-09-25"
+    },
+    {
+      "career_id": "FR_ELITE_001438-CAR-O000929",
+      "elite_id": "FR_ELITE_001438",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_001454-CAR-O000940",
+      "elite_id": "FR_ELITE_001454",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_001463-CAR-O000945",
+      "elite_id": "FR_ELITE_001463",
+      "end_date": "1962-07-03",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001471-CAR-O000947",
+      "elite_id": "FR_ELITE_001471",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001478-CAR-O000951",
+      "elite_id": "FR_ELITE_001478",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1961-06-11"
+    },
+    {
+      "career_id": "FR_ELITE_001485-CAR-O000961",
+      "elite_id": "FR_ELITE_001485",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001486-CAR-O000963",
+      "elite_id": "FR_ELITE_001486",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001498-CAR-O000969",
+      "elite_id": "FR_ELITE_001498",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001504-CAR-O000972",
+      "elite_id": "FR_ELITE_001504",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001518-CAR-O000982",
+      "elite_id": "FR_ELITE_001518",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001521-CAR-O000984",
+      "elite_id": "FR_ELITE_001521",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001526-CAR-O000988",
+      "elite_id": "FR_ELITE_001526",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001534-CAR-O000992",
+      "elite_id": "FR_ELITE_001534",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001547-CAR-O001000",
+      "elite_id": "FR_ELITE_001547",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001548-CAR-O001002",
+      "elite_id": "FR_ELITE_001548",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001568-CAR-O001013",
+      "elite_id": "FR_ELITE_001568",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001569-CAR-O001016",
+      "elite_id": "FR_ELITE_001569",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-12-09"
+    },
+    {
+      "career_id": "FR_ELITE_001576-CAR-O001021",
+      "elite_id": "FR_ELITE_001576",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001578-CAR-O001024",
+      "elite_id": "FR_ELITE_001578",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001587-CAR-O001028",
+      "elite_id": "FR_ELITE_001587",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001595-CAR-O001033",
+      "elite_id": "FR_ELITE_001595",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001597-CAR-O001035",
+      "elite_id": "FR_ELITE_001597",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001604-CAR-O001039",
+      "elite_id": "FR_ELITE_001604",
+      "end_date": "1959-02-08",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001612-CAR-O001043",
+      "elite_id": "FR_ELITE_001612",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001613-CAR-O001044",
+      "elite_id": "FR_ELITE_001613",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001619-CAR-O001048",
+      "elite_id": "FR_ELITE_001619",
+      "end_date": "1962-07-03",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    },
+    {
+      "career_id": "FR_ELITE_001628-CAR-O001051",
+      "elite_id": "FR_ELITE_001628",
+      "end_date": "1962-10-09",
+      "position": "Député",
+      "source_ids": [
+        "SRC_SYCOMORE"
+      ],
+      "start_date": "1958-11-30"
+    }
+  ],
+  "child_org_ids": [],
+  "extensions": {},
+  "identity": {
+    "country": "FR",
+    "nom_court": "UNR",
+    "nom_officiel": "Union pour la Nouvelle République",
+    "org_level": "National",
+    "org_type": "ParliamentaryGroup"
+  },
+  "is_gaulliste_marker": true,
+  "lifespan": {
+    "end_date": "1962-12-31",
+    "note": null,
+    "start_date": "1958-01-01"
+  },
+  "memberships": [
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000014",
+      "evidence": {
+        "record_id": "1757",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-02-09",
+      "valid_to": "1962-07-03"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000019",
+      "evidence": {
+        "record_id": "5427",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000021",
+      "evidence": {
+        "record_id": "6139",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000030",
+      "evidence": {
+        "record_id": "2378",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000032",
+      "evidence": {
+        "record_id": "5741",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1960-06-04"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000037",
+      "evidence": {
+        "record_id": "1904",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000038",
+      "evidence": {
+        "record_id": "829",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-23",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000042",
+      "evidence": {
+        "record_id": "2024",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000053",
+      "evidence": {
+        "record_id": "1058",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1961-09-24"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000066",
+      "evidence": {
+        "record_id": "7269",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-02-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000069",
+      "evidence": {
+        "record_id": "1105",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1961-06-02"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000071",
+      "evidence": {
+        "record_id": "6573",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000102",
+      "evidence": {
+        "record_id": "2511",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000119",
+      "evidence": {
+        "record_id": "7864",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000121",
+      "evidence": {
+        "record_id": "1516",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000135",
+      "evidence": {
+        "record_id": "3110",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-03-07",
+      "valid_to": "1960-03-06"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000137",
+      "evidence": {
+        "record_id": "6611",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1960-12-01",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000147",
+      "evidence": {
+        "record_id": "7052",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000150",
+      "evidence": {
+        "record_id": "6181",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000151",
+      "evidence": {
+        "record_id": "5165",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-07-03"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000157",
+      "evidence": {
+        "record_id": "10179",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000159",
+      "evidence": {
+        "record_id": "4932",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-07-03"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000173",
+      "evidence": {
+        "record_id": "4394",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000176",
+      "evidence": {
+        "record_id": "2596",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000192",
+      "evidence": {
+        "record_id": "5580",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000206",
+      "evidence": {
+        "record_id": "1457",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000207",
+      "evidence": {
+        "record_id": "5588",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000209",
+      "evidence": {
+        "record_id": "6892",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1959-02-08"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000212",
+      "evidence": {
+        "record_id": "2670",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000221",
+      "evidence": {
+        "record_id": "2301",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000226",
+      "evidence": {
+        "record_id": "7112",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000227",
+      "evidence": {
+        "record_id": "7267",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000232",
+      "evidence": {
+        "record_id": "6209",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-05-31",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000239",
+      "evidence": {
+        "record_id": "7785",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000250",
+      "evidence": {
+        "record_id": "5701",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000283",
+      "evidence": {
+        "record_id": "5359",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000288",
+      "evidence": {
+        "record_id": "2768",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000290",
+      "evidence": {
+        "record_id": "7277",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000294",
+      "evidence": {
+        "record_id": "5395",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000295",
+      "evidence": {
+        "record_id": "2227",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000298",
+      "evidence": {
+        "record_id": "6824",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000307",
+      "evidence": {
+        "record_id": "483",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000326",
+      "evidence": {
+        "record_id": "6994",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1960-03-05"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000327",
+      "evidence": {
+        "record_id": "7228",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-23",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000343",
+      "evidence": {
+        "record_id": "2693",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-05-15"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000344",
+      "evidence": {
+        "record_id": "3685",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000349",
+      "evidence": {
+        "record_id": "6485",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1961-09-26",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000367",
+      "evidence": {
+        "record_id": "4176",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000375",
+      "evidence": {
+        "record_id": "5824",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000381",
+      "evidence": {
+        "record_id": "561",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000398",
+      "evidence": {
+        "record_id": "2115",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000403",
+      "evidence": {
+        "record_id": "6702",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000408",
+      "evidence": {
+        "record_id": "5401",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000413",
+      "evidence": {
+        "record_id": "3967",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000421",
+      "evidence": {
+        "record_id": "1382",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000428",
+      "evidence": {
+        "record_id": "7096",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000446",
+      "evidence": {
+        "record_id": "6156",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000465",
+      "evidence": {
+        "record_id": "638",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000492",
+      "evidence": {
+        "record_id": "1474",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000502",
+      "evidence": {
+        "record_id": "7262",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000506",
+      "evidence": {
+        "record_id": "7860",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-04-12",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000509",
+      "evidence": {
+        "record_id": "2600",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000511",
+      "evidence": {
+        "record_id": "7264",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000520",
+      "evidence": {
+        "record_id": "966",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000525",
+      "evidence": {
+        "record_id": "7059",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000534",
+      "evidence": {
+        "record_id": "6279",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000549",
+      "evidence": {
+        "record_id": "2843",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-06-04"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000566",
+      "evidence": {
+        "record_id": "1318",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000567",
+      "evidence": {
+        "record_id": "3266",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000569",
+      "evidence": {
+        "record_id": "3554",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-07-03"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000570",
+      "evidence": {
+        "record_id": "1857",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000589",
+      "evidence": {
+        "record_id": "3864",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000591",
+      "evidence": {
+        "record_id": "3849",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000594",
+      "evidence": {
+        "record_id": "5307",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1961-09-25"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000612",
+      "evidence": {
+        "record_id": "4924",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1961-09-24"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000618",
+      "evidence": {
+        "record_id": "5304",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000619",
+      "evidence": {
+        "record_id": "6347",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000621",
+      "evidence": {
+        "record_id": "7261",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000625",
+      "evidence": {
+        "record_id": "6511",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000672",
+      "evidence": {
+        "record_id": "982",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000681",
+      "evidence": {
+        "record_id": "3155",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-02-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000698",
+      "evidence": {
+        "record_id": "1217",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000714",
+      "evidence": {
+        "record_id": "2786",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-05-15"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000721",
+      "evidence": {
+        "record_id": "5149",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-05-15"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000730",
+      "evidence": {
+        "record_id": "6122",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000741",
+      "evidence": {
+        "record_id": "624",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-07-03"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000753",
+      "evidence": {
+        "record_id": "895",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000758",
+      "evidence": {
+        "record_id": "1237",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000762",
+      "evidence": {
+        "record_id": "1055",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000774",
+      "evidence": {
+        "record_id": "7124",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000778",
+      "evidence": {
+        "record_id": "1093",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000780",
+      "evidence": {
+        "record_id": "1081",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000794",
+      "evidence": {
+        "record_id": "6272",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-02-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000796",
+      "evidence": {
+        "record_id": "6877",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000800",
+      "evidence": {
+        "record_id": "572",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000836",
+      "evidence": {
+        "record_id": "6726",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000838",
+      "evidence": {
+        "record_id": "7274",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000860",
+      "evidence": {
+        "record_id": "2586",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000873",
+      "evidence": {
+        "record_id": "649",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000874",
+      "evidence": {
+        "record_id": "3263",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-23",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000880",
+      "evidence": {
+        "record_id": "7512",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000891",
+      "evidence": {
+        "record_id": "4847",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000895",
+      "evidence": {
+        "record_id": "5447",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-07-03"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000897",
+      "evidence": {
+        "record_id": "7495",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-05-10",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000903",
+      "evidence": {
+        "record_id": "1853",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-23",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000928",
+      "evidence": {
+        "record_id": "2807",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000931",
+      "evidence": {
+        "record_id": "7275",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1960-01-05"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000933",
+      "evidence": {
+        "record_id": "3614",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000935",
+      "evidence": {
+        "record_id": "6265",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000956",
+      "evidence": {
+        "record_id": "7387",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1962-05-16",
+      "valid_to": "1962-06-19"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000960",
+      "evidence": {
+        "record_id": "7527",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000966",
+      "evidence": {
+        "record_id": "4137",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000976",
+      "evidence": {
+        "record_id": "1222",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000985",
+      "evidence": {
+        "record_id": "5534",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000995",
+      "evidence": {
+        "record_id": "1014",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001003",
+      "evidence": {
+        "record_id": "3572",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001016",
+      "evidence": {
+        "record_id": "7568",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001017",
+      "evidence": {
+        "record_id": "6795",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-23",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001020",
+      "evidence": {
+        "record_id": "588",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1961-06-03",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001032",
+      "evidence": {
+        "record_id": "4007",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001046",
+      "evidence": {
+        "record_id": "2812",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001050",
+      "evidence": {
+        "record_id": "1659",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001054",
+      "evidence": {
+        "record_id": "1646",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001056",
+      "evidence": {
+        "record_id": "557",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001065",
+      "evidence": {
+        "record_id": "2904",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001066",
+      "evidence": {
+        "record_id": "4969",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001070",
+      "evidence": {
+        "record_id": "603",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001080",
+      "evidence": {
+        "record_id": "1935",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001088",
+      "evidence": {
+        "record_id": "2639",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1962-05-15",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001097",
+      "evidence": {
+        "record_id": "6288",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001100",
+      "evidence": {
+        "record_id": "7151",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-23",
+      "valid_to": "1959-02-08"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001115",
+      "evidence": {
+        "record_id": "3379",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1962-06-05",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001119",
+      "evidence": {
+        "record_id": "3974",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001121",
+      "evidence": {
+        "record_id": "4801",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-07-03"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001126",
+      "evidence": {
+        "record_id": "703",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001149",
+      "evidence": {
+        "record_id": "5863",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001151",
+      "evidence": {
+        "record_id": "7219",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001156",
+      "evidence": {
+        "record_id": "5449",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001191",
+      "evidence": {
+        "record_id": "1020",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001196",
+      "evidence": {
+        "record_id": "5303",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001205",
+      "evidence": {
+        "record_id": "4906",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001220",
+      "evidence": {
+        "record_id": "4116",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001227",
+      "evidence": {
+        "record_id": "5291",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1960-05-29",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001235",
+      "evidence": {
+        "record_id": "7543",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001249",
+      "evidence": {
+        "record_id": "7266",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001252",
+      "evidence": {
+        "record_id": "1681",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001256",
+      "evidence": {
+        "record_id": "779",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001257",
+      "evidence": {
+        "record_id": "7680",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001261",
+      "evidence": {
+        "record_id": "992",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001262",
+      "evidence": {
+        "record_id": "762",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001273",
+      "evidence": {
+        "record_id": "6690",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001274",
+      "evidence": {
+        "record_id": "6940",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001280",
+      "evidence": {
+        "record_id": "5320",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1962-03-04",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001285",
+      "evidence": {
+        "record_id": "5862",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-05-15"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001286",
+      "evidence": {
+        "record_id": "7627",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001288",
+      "evidence": {
+        "record_id": "4979",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001299",
+      "evidence": {
+        "record_id": "1877",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1962-05-15",
+      "valid_to": "1962-10-31"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001303",
+      "evidence": {
+        "record_id": "6549",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001325",
+      "evidence": {
+        "record_id": "3461",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001328",
+      "evidence": {
+        "record_id": "3765",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001329",
+      "evidence": {
+        "record_id": "6283",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001330",
+      "evidence": {
+        "record_id": "2279",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001334",
+      "evidence": {
+        "record_id": "653",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-02-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001337",
+      "evidence": {
+        "record_id": "6205",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001341",
+      "evidence": {
+        "record_id": "2879",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001342",
+      "evidence": {
+        "record_id": "5872",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001351",
+      "evidence": {
+        "record_id": "4343",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001356",
+      "evidence": {
+        "record_id": "5659",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001366",
+      "evidence": {
+        "record_id": "5780",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001378",
+      "evidence": {
+        "record_id": "4907",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001385",
+      "evidence": {
+        "record_id": "3717",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001391",
+      "evidence": {
+        "record_id": "3504",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1959-04-19",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001393",
+      "evidence": {
+        "record_id": "796",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001402",
+      "evidence": {
+        "record_id": "5315",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1961-04-25"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001403",
+      "evidence": {
+        "record_id": "4390",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1961-09-25",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001438",
+      "evidence": {
+        "record_id": "2109",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001454",
+      "evidence": {
+        "record_id": "212",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001463",
+      "evidence": {
+        "record_id": "3083",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-07-03"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001471",
+      "evidence": {
+        "record_id": "1342",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001478",
+      "evidence": {
+        "record_id": "4117",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1961-06-11",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001485",
+      "evidence": {
+        "record_id": "6453",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001486",
+      "evidence": {
+        "record_id": "5901",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001498",
+      "evidence": {
+        "record_id": "6976",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001504",
+      "evidence": {
+        "record_id": "7281",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001518",
+      "evidence": {
+        "record_id": "5816",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001521",
+      "evidence": {
+        "record_id": "7271",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001526",
+      "evidence": {
+        "record_id": "6602",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001534",
+      "evidence": {
+        "record_id": "2471",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001547",
+      "evidence": {
+        "record_id": "7625",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001548",
+      "evidence": {
+        "record_id": "5318",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001568",
+      "evidence": {
+        "record_id": "77",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001569",
+      "evidence": {
+        "record_id": "4200",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-12-09",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001576",
+      "evidence": {
+        "record_id": "7273",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001578",
+      "evidence": {
+        "record_id": "3173",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001587",
+      "evidence": {
+        "record_id": "3988",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001595",
+      "evidence": {
+        "record_id": "3008",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001597",
+      "evidence": {
+        "record_id": "1309",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001604",
+      "evidence": {
+        "record_id": "5127",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1959-02-08"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001612",
+      "evidence": {
+        "record_id": "5977",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001613",
+      "evidence": {
+        "record_id": "4934",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001619",
+      "evidence": {
+        "record_id": "579",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-07-03"
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001628",
+      "evidence": {
+        "record_id": "1522",
+        "source_id": "SRC_SYCOMORE"
+      },
+      "rule_id": "RULE_PARL_UNR",
+      "status": "Verified",
+      "valid_from": "1958-11-30",
+      "valid_to": "1962-10-09"
+    }
+  ],
+  "org_id": "ORG_GROUPE_UNR",
+  "parent_org_id": "ORG_AN",
+  "record_version": 1,
+  "schema_version": "3.0",
+  "sources_used": [
+    "SRC_SYCOMORE"
+  ]
+}

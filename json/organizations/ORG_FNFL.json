@@ -1,0 +1,201 @@
+{
+  "aliases": [
+    {
+      "source_id": "SRC_MDH_HOMOLOGATION",
+      "type": "abbreviation",
+      "value": "FNFL"
+    },
+    {
+      "source_id": "SRC_MDH_HOMOLOGATION",
+      "type": "common",
+      "value": "Forces navales francaises libres"
+    },
+    {
+      "source_id": "SRC_MDH_HOMOLOGATION",
+      "type": "official",
+      "value": "Forces navales françaises libres"
+    }
+  ],
+  "career_members": [],
+  "child_org_ids": [],
+  "extensions": {},
+  "identity": {
+    "country": "FR",
+    "nom_court": "FNFL",
+    "nom_officiel": "Forces navales françaises libres",
+    "org_level": "Transnational",
+    "org_type": "Military"
+  },
+  "is_gaulliste_marker": true,
+  "lifespan": {
+    "end_date": "1943-08-01",
+    "note": null,
+    "start_date": "1940-07-01"
+  },
+  "memberships": [
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000210",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_01016",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000246",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00895",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000377",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00513",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000410",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00943",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000432",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00371",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000537",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00705",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000658",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00028",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000868",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00404",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000919",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00364",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_000949",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_01029",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001108",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00039",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001437",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00741",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": 1.0,
+      "elite_id": "FR_ELITE_001531",
+      "evidence": {
+        "record_id": "FREE_FRANCE_ROW_00727",
+        "source_id": "SRC_FREE_FRANCE_WIKI"
+      },
+      "rule_id": "RULE_FNFL",
+      "status": "Verified",
+      "valid_from": null,
+      "valid_to": null
+    }
+  ],
+  "org_id": "ORG_FNFL",
+  "parent_org_id": "ORG_FFL",
+  "record_version": 1,
+  "schema_version": "3.0",
+  "sources_used": [
+    "SRC_FREE_FRANCE_WIKI",
+    "SRC_MDH_HOMOLOGATION"
+  ]
+}

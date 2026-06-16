@@ -1,0 +1,35 @@
+{
+  "bibliography": {
+    "access_date": "2026-06-15",
+    "lang": "fr",
+    "publisher": "Présidence de la République",
+    "reliability_note": "Official presidential mandates",
+    "reliability_tier": "A",
+    "title": "Présidents de la République",
+    "type": "Online_Database_Entry",
+    "url": "https://www.elysee.fr/"
+  },
+  "contributions": [],
+  "import_batches": [
+    {
+      "batch_id": "BATCH_SRC_PRESIDENTS",
+      "error_count": 0,
+      "imported_at": "2026-06-15 02:00:00+02",
+      "mapping_version": "v3-task8",
+      "row_count": 4,
+      "source_file": "D:/pythonProject_stage/Cleandata_new/source/liste-presidents-5eme-republique.csv",
+      "status": "loaded",
+      "success_count": 4
+    }
+  ],
+  "metadata": {
+    "extensions": {},
+    "extracted_by": "data_registry",
+    "extraction_date": "2026-06-15",
+    "source_file": "Cleandata_new/source/liste-presidents-5eme-republique.csv",
+    "source_system": "PRESIDENT"
+  },
+  "record_version": 1,
+  "schema_version": "3.0",
+  "source_id": "SRC_PRESIDENTS"
+}

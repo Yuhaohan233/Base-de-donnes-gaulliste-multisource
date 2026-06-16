@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    {
+      "source_id": "SRC_PREFECTS",
+      "type": "short",
+      "value": "Intérieur"
+    },
+    {
+      "source_id": "SRC_PREFECTS",
+      "type": "common",
+      "value": "Ministere de l'Interieur"
+    },
+    {
+      "source_id": "SRC_PREFECTS",
+      "type": "official",
+      "value": "Ministère de l'Intérieur"
+    }
+  ],
+  "career_members": [],
+  "child_org_ids": [],
+  "extensions": {},
+  "identity": {
+    "country": "FR",
+    "nom_court": "Intérieur",
+    "nom_officiel": "Ministère de l'Intérieur",
+    "org_level": "National",
+    "org_type": "Executive"
+  },
+  "is_gaulliste_marker": false,
+  "lifespan": {
+    "end_date": null,
+    "note": "Institutional entity with changing official titles",
+    "start_date": null
+  },
+  "memberships": [],
+  "org_id": "ORG_MINISTERE_INTERIEUR",
+  "parent_org_id": "ORG_GOUVERNEMENT_FR",
+  "record_version": 1,
+  "schema_version": "3.0",
+  "sources_used": [
+    "SRC_PREFECTS"
+  ]
+}

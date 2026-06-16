@@ -1,0 +1,2676 @@
+{
+  "bibliography": {
+    "access_date": "2026-06-15",
+    "lang": "fr",
+    "publisher": "Mémoire des hommes",
+    "reliability_note": "Resistance medal evidence",
+    "reliability_tier": "A",
+    "title": "Médaillés de la Résistance française",
+    "type": "Online_Database_Entry",
+    "url": "https://www.memoiredeshommes.sga.defense.gouv.fr/"
+  },
+  "contributions": [
+    {
+      "elite_id": "FR_ELITE_000007",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f5903500b",
+        "m005cc7f5903500b"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000046",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbea0d8de",
+        "m005cc7fbea0d8de"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000053",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f51bae53d",
+        "m005cc7f51bae53d"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000067",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f9928d0f9",
+        "m005cc7f9928d0f9"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000078",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fea428195",
+        "m005cc7fea428195"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000080",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffaede909",
+        "m005cc7ffaede909"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000085",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f4ad30ba1",
+        "m005cc7f4ad30ba1"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000101",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff062f79e",
+        "m005cc7ff062f79e"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000108",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fa6d03cf0",
+        "m005cc7fa6d03cf0"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000138",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fc12ac5ee",
+        "m005cc7fc12ac5ee"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000148",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fcbbd3559",
+        "m005cc7fcbbd3559"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000149",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff346bfe3",
+        "m005cc7ff346bfe3"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000164",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f7c59226c",
+        "m005cc7f7c59226c"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000170",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe0e6d5b6",
+        "m005cc7fe0e6d5b6"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000177",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fc0bc02a5",
+        "m005cc7fc0bc02a5"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000201",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc800c80035e",
+        "m005cc800c80035e"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000237",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fc2a79563",
+        "m005cc7fc2a79563"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000246",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffab3cf67",
+        "m005cc7ffab3cf67"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000249",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f7e22e459",
+        "m005cc7f7e22e459"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000256",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fc4ac7600",
+        "m005cc7fc4ac7600"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000259",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f4857b759",
+        "m005cc7f4857b759"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000267",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc8022859efe",
+        "m005cc8022859efe"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000291",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbc2c0ae7",
+        "m005cc7fbc2c0ae7"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000292",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffc394b5b",
+        "m005cc7ffc394b5b"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000296",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb1b2f2d1",
+        "m005cc7fb1b2f2d1"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000297",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff048c39e",
+        "m005cc7ff048c39e"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000308",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f86101cb2",
+        "m005cc7f86101cb2"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000314",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffc9e50c2",
+        "m005cc7ffc9e50c2"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000337",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff7b033ec",
+        "m005cc7ff7b033ec"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000343",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7faec3e710",
+        "m005cc7faec3e710"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000352",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd781cf3f",
+        "m005cc7fd781cf3f"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000363",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffb641eb2",
+        "m005cc7ffb641eb2"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000373",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe6ac833b",
+        "m005cc7fe6ac833b"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000378",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd0791c0a",
+        "m005cc7fd0791c0a"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000380",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd80c89a9",
+        "m005cc7fd80c89a9"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000383",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc8019c9a809",
+        "m005cc8019c9a809"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000400",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff3db4b99",
+        "m005cc7ff3db4b99"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000410",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc80039e2719",
+        "m005cc80039e2719"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000416",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f9c3f0379",
+        "m005cc7f9c3f0379"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000420",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe9ebb908",
+        "m005cc7fe9ebb908"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000436",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fc2705c76",
+        "m005cc7fc2705c76"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000440",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc80178882d0",
+        "m005cc80178882d0"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000443",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f7e23e76e",
+        "m005cc7f7e23e76e"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000449",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f79e0b2b3",
+        "m005cc7f79e0b2b3"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000494",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff817aec1",
+        "m005cc7ff817aec1"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000497",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f5d45554b",
+        "m005cc7f5d45554b"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000499",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f6a5549af",
+        "m005cc7f6a5549af"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000501",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbb86f47a",
+        "m005cc7fbb86f47a"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000507",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe9c125ec",
+        "m005cc7fe9c125ec"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000509",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7facdcf1d0",
+        "m005cc7facdcf1d0"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000513",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f6f038321",
+        "m005cc7f6f038321"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000520",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f3e675e1b",
+        "m005cc7f3e675e1b"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000526",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff873966c",
+        "m005cc7ff873966c"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000530",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc800c54c6b7",
+        "m005cc800c54c6b7"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000536",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc80179c27bc",
+        "m005cc80179c27bc"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000538",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc8003987142",
+        "m005cc8003987142"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000546",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f9dbb11b4",
+        "m005cc7f9dbb11b4"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000551",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff4bcb8ff",
+        "m005cc7ff4bcb8ff"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000555",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff7c6427c",
+        "m005cc7ff7c6427c"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000557",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f81d4f6e1",
+        "m005cc7f81d4f6e1"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000572",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff2667982",
+        "m005cc7ff2667982"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000581",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f5311dcd9",
+        "m005cc7f5311dcd9"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000582",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffaadb806",
+        "m005cc7ffaadb806"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000588",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffab4e124",
+        "m005cc7ffab4e124"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000602",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe43ec806",
+        "m005cc7fe43ec806"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000607",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe10245ea",
+        "m005cc7fe10245ea"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000609",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f6f54eb3d",
+        "m005cc7f6f54eb3d"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000610",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f74ba7eb9",
+        "m005cc7f74ba7eb9"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000617",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f808e4082",
+        "m005cc7f808e4082"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000618",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd07315cd",
+        "m005cc7fd07315cd"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000647",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f8185c5fb",
+        "m005cc7f8185c5fb"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000668",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fc70dcb20",
+        "m005cc7fc70dcb20"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000675",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc80054d013c",
+        "m005cc80054d013c"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000681",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fa8039f96",
+        "m005cc7fa8039f96"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000684",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb46f3fff",
+        "m005cc7fb46f3fff"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000691",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f700aa4e3",
+        "m005cc7f700aa4e3"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000697",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff788e558",
+        "m005cc7ff788e558"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000700",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f8c552274",
+        "m005cc7f8c552274"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000701",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7faca08199",
+        "m005cc7faca08199"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000704",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe90909f9",
+        "m005cc7fe90909f9"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000710",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f73203408",
+        "m005cc7f73203408"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000744",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f9c59d82e",
+        "m005cc7f9c59d82e"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000745",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f8a09bd8c",
+        "m005cc7f8a09bd8c"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000748",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbe030420",
+        "m005cc7fbe030420"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000763",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff98cb05c",
+        "m005cc7ff98cb05c"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000764",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f81460adb",
+        "m005cc7f81460adb"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000765",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc8001416af8",
+        "m005cc8001416af8"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000788",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc8020355702",
+        "m005cc8020355702"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000800",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f3ea816be",
+        "m005cc7f3ea816be"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000804",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb2e8e135",
+        "m005cc7fb2e8e135"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000816",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f4bce7731",
+        "m005cc7f4bce7731"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000851",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe0165d01",
+        "m005cc7fe0165d01"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000865",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fa670cf41",
+        "m005cc7fa670cf41"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000872",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbfbeecbb",
+        "m005cc7fbfbeecbb"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000907",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fee0e4671",
+        "m005cc7fee0e4671"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000932",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb294fbdc",
+        "m005cc7fb294fbdc"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000963",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fcbcd14b2",
+        "m005cc7fcbcd14b2"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000970",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbe7a7096",
+        "m005cc7fbe7a7096"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000977",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb855fefe",
+        "m005cc7fb855fefe"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_000979",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd03ef207",
+        "m005cc7fd03ef207"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001000",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fa399a6e0",
+        "m005cc7fa399a6e0"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001013",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff946ab9d",
+        "m005cc7ff946ab9d"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001022",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe7ed29d8",
+        "m005cc7fe7ed29d8"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001043",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc80193cbd1f",
+        "m005cc80193cbd1f"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001049",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f547a7c58",
+        "m005cc7f547a7c58"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001050",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f88d2e1b7",
+        "m005cc7f88d2e1b7"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001068",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd559b632",
+        "m005cc7fd559b632"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001073",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffd378153",
+        "m005cc7ffd378153"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001082",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc8000b8e6f9",
+        "m005cc8000b8e6f9"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001111",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffb12e049",
+        "m005cc7ffb12e049"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001113",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f6bc101a6",
+        "m005cc7f6bc101a6"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001116",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd9da9720",
+        "m005cc7fd9da9720"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001125",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd5a32532",
+        "m005cc7fd5a32532"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001134",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f5babe3a4",
+        "m005cc7f5babe3a4"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001135",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f7f0a568a",
+        "m005cc7f7f0a568a"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001136",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f55eb9a3c",
+        "m005cc7f55eb9a3c"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001153",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff7365448",
+        "m005cc7ff7365448"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001167",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff6f0439c",
+        "m005cc7ff6f0439c"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001179",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fccfc3aba",
+        "m005cc7fccfc3aba"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001181",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb8958579",
+        "m005cc7fb8958579"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001186",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f6bcc9ff2",
+        "m005cc7f6bcc9ff2"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001189",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fc55714c5",
+        "m005cc7fc55714c5"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001190",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fdcf38281",
+        "m005cc7fdcf38281"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001193",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f49976e1e",
+        "m005cc7f49976e1e"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001196",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd06d856a",
+        "m005cc7fd06d856a"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001230",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc801cab2a75",
+        "m005cc801cab2a75"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001256",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f4555dd31",
+        "m005cc7f4555dd31"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001263",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe6412892",
+        "m005cc7fe6412892"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001265",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f715af145",
+        "m005cc7f715af145"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001266",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb3ce1ab9",
+        "m005cc7fb3ce1ab9"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001267",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc801a64e165",
+        "m005cc801a64e165"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001292",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f414498ba",
+        "m005cc7f414498ba"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001294",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff966e989",
+        "m005cc7ff966e989"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001298",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb9c354c1",
+        "m005cc7fb9c354c1"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001320",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f81d0ca09",
+        "m005cc7f81d0ca09"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001333",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff425faab",
+        "m005cc7ff425faab"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001351",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fc359b549",
+        "m005cc7fc359b549"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001352",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb0650510",
+        "m005cc7fb0650510"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001356",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fe46e52cc",
+        "m005cc7fe46e52cc"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001366",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f5e123e98",
+        "m005cc7f5e123e98"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001375",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb7c472c4",
+        "m005cc7fb7c472c4"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001376",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb3618be9",
+        "m005cc7fb3618be9"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001384",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc800a237e59",
+        "m005cc800a237e59"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001387",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f97fa72d5",
+        "m005cc7f97fa72d5"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001402",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fd13f24e3",
+        "m005cc7fd13f24e3"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001409",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff8195a11",
+        "m005cc7ff8195a11"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001420",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005db700b107cc0",
+        "m005db700b107cc0"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001429",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbed5e409",
+        "m005cc7fbed5e409"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001447",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff584a3c8",
+        "m005cc7ff584a3c8"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001460",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "name_full_birth_place"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f618d4202",
+        "m005cc7f618d4202"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001475",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff0488207",
+        "m005cc7ff0488207"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001500",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbd435336",
+        "m005cc7fbd435336"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001552",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fc243ff76",
+        "m005cc7fc243ff76"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001562",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fdf254cef",
+        "m005cc7fdf254cef"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001569",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbce9bb8e",
+        "m005cc7fbce9bb8e"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001571",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ffa0efb07",
+        "m005cc7ffa0efb07"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001573",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f84d6be6f",
+        "m005cc7f84d6be6f"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001581",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f7d628e6e",
+        "m005cc7f7d628e6e"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001602",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fb84dcf69",
+        "m005cc7fb84dcf69"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001608",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7ff028d40e",
+        "m005cc7ff028d40e"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001615",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc80085d2bc1",
+        "m005cc80085d2bc1"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001635",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbc4034b2",
+        "m005cc7fbc4034b2"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001637",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f5bfaba10",
+        "m005cc7f5bfaba10"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001639",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7fbc5c1bda",
+        "m005cc7fbc5c1bda"
+      ]
+    },
+    {
+      "elite_id": "FR_ELITE_001650",
+      "fields_supplied": [
+        "external_ids",
+        "identity_links",
+        "memberships"
+      ],
+      "match_confidence": 1.0,
+      "match_rules": [
+        "existing_fingerprint"
+      ],
+      "source_record_ids": [
+        "MDH_MEDAL_m005cc7f496d4147",
+        "m005cc7f496d4147"
+      ]
+    }
+  ],
+  "import_batches": [
+    {
+      "batch_id": "BATCH_SRC_MDH_MEDAL",
+      "error_count": 0,
+      "imported_at": "2026-06-15 02:00:00+02",
+      "mapping_version": "v3-task8",
+      "row_count": 65281,
+      "source_file": "D:/pythonProject_stage/data_1944_1969/memoire_des_hommes/medailles_resistance/medailles_resistance_data.csv",
+      "status": "loaded",
+      "success_count": 65281
+    }
+  ],
+  "metadata": {
+    "extensions": {},
+    "extracted_by": "data_registry",
+    "extraction_date": "2026-06-15",
+    "source_file": "data_1944_1969/memoire_des_hommes/medailles_resistance/medailles_resistance_data.csv",
+    "source_system": "MDH_MEDAL"
+  },
+  "record_version": 1,
+  "schema_version": "3.0",
+  "source_id": "SRC_MDH_MEDAL"
+}
