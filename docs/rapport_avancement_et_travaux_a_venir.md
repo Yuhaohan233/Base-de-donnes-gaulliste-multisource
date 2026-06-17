@@ -8,8 +8,6 @@ Le dépôt GitHub est disponible ici :
 
 https://github.com/Yuhaohan233/Base-de-donn-es-gaulliste-multisource
 
-Le dépôt est actuellement privé. Le contenu principal du dépôt et les fichiers volumineux placés en release ont été téléversés.
-
 ## 2. Travaux déjà réalisés
 
 ### 2.1 Schéma de stockage JSON
