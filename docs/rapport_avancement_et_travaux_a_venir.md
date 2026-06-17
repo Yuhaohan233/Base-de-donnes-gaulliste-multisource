@@ -1,18 +1,18 @@
 # Rapport d'avancement et travaux à venir
 
-## 1. État actuel du projet
+## 1. État du projet
 
-Le projet dispose désormais d'une première version structurée de la base de données : architecture relationnelle, intégration multisource, table CSV maîtresse, export JSON, sauvegarde PostgreSQL et publication dans le dépôt GitHub privé.
+La base de données gaulliste multisource comprend une architecture relationnelle, une table CSV maîtresse, des exports JSON, une sauvegarde PostgreSQL et une organisation documentaire publiée dans le dépôt GitHub du projet.
 
-Le dépôt GitHub est disponible ici :
+Le dépôt GitHub est disponible à l'adresse suivante :
 
 https://github.com/Yuhaohan233/Base-de-donn-es-gaulliste-multisource
 
-## 2. Travaux déjà réalisés
+## 2. Travaux réalisés
 
 ### 2.1 Schéma de stockage JSON
 
-Le schéma JSON v3 a été défini pour trois types d'objets :
+Le schéma JSON v3 distingue trois types d'objets :
 
 - personnes ;
 - sources documentaires ;
@@ -26,11 +26,11 @@ Les fichiers principaux sont :
 - `json/sources/`
 - `json/organizations/`
 
-L'export JSON complet des personnes est fourni dans l'asset de release `json_v3.zip`. Il contient 66 059 fichiers JSON individuels.
+L'archive `json_v3.zip` contient l'export JSON complet des personnes, soit 66 059 fichiers JSON individuels.
 
 ### 2.2 Table CSV maîtresse et identifiants uniques
 
-Une table CSV maîtresse a été créée afin de recenser les individus et de leur attribuer un identifiant unique interne `elite_id`.
+La table CSV maîtresse recense les individus et associe à chacun un identifiant interne unique `elite_id`.
 
 Les fichiers principaux sont :
 
@@ -41,13 +41,13 @@ Les fichiers principaux sont :
 - `data/master/person_memberships.csv`
 - `data/master/career_entries_v3.csv`
 
-La table maîtresse contient actuellement 66 059 individus.
+La table maîtresse contient 66 059 individus.
 
 ### 2.3 Fichiers JSON par source
 
-Des fichiers JSON séparés ont été générés pour les principales sources et organisations.
+Les principales sources et organisations disposent de fichiers JSON séparés.
 
-Le dépôt contient directement :
+Le dépôt contient :
 
 - `json/sources/` : 12 fichiers JSON de sources ;
 - `json/organizations/` : 14 fichiers JSON d'organisations.
@@ -56,7 +56,7 @@ Chaque fichier de source contient les métadonnées de la source, les personnes 
 
 ### 2.4 Architecture logique de la base
 
-L'architecture relationnelle PostgreSQL, le schéma DBML et les scripts d'import/vérification sont disponibles.
+L'architecture relationnelle PostgreSQL, le schéma DBML et les scripts d'import/vérification sont présents dans le dépôt.
 
 Les fichiers principaux sont :
 
@@ -69,21 +69,21 @@ Le fichier `database_v3_multisource.dbml` peut être importé dans dbdiagram.io 
 
 ### 2.5 Données sources et fichiers intermédiaires
 
-Le dossier `data/raw/` contient les fichiers sources et intermédiaires pouvant être suivis directement dans le dépôt.
+Le dossier `data/raw/` contient les fichiers sources et intermédiaires suivis directement dans le dépôt.
 
-L'ensemble complet des données sources est disponible dans l'asset de release :
+L'ensemble complet des données sources est disponible dans l'archive :
 
 - `raw_source_data_1944_1969.zip`
 
-Les autres assets complets sont :
+Les autres archives complètes sont :
 
 - `gaullist_db_v3.dump`
 - `json_v3.zip`
 - `data_registry_outputs_v3.zip`
 
-### 2.6 Publication GitHub
+### 2.6 Organisation du dépôt
 
-Le dépôt GitHub contient actuellement :
+Le dépôt GitHub contient les répertoires suivants :
 
 - `README.md`
 - `data/`
@@ -94,16 +94,16 @@ Le dépôt GitHub contient actuellement :
 - `metadata/`
 - `scripts/`
 
-La release contient quatre fichiers complets :
+La release associée contient quatre fichiers complets :
 
 - `gaullist_db_v3.dump`
 - `json_v3.zip`
 - `data_registry_outputs_v3.zip`
 - `raw_source_data_1944_1969.zip`
 
-## 3. Volume actuel des données
+## 3. Volume des données
 
-À ce stade, la base contient :
+La base contient :
 
 - 66 059 individus dans la table maîtresse ;
 - 66 553 liens d'identité multisource ;
@@ -112,25 +112,25 @@ La release contient quatre fichiers complets :
 - 1 891 lignes de carrière ou de mandat ;
 - 12 sources documentaires ;
 - 14 organisations ;
-- 3 837 cas restant à vérifier manuellement.
+- 3 837 cas à vérifier manuellement.
 
 ## 4. Travaux restant à réaliser
 
 ### 4.1 Revue manuelle des conflits d'identité
 
-Il reste 3 837 cas à vérifier manuellement.
+La file de revue contient 3 837 cas.
 
-Parmi eux :
+Répartition :
 
 - `P1_quick_review` : 899 cas à traiter en priorité ;
 - `P2_ambiguous` : cas ambigus nécessitant une vérification plus attentive ;
 - `P3_hard_conflict` : conflits forts exigeant une preuve documentaire solide.
 
-Cette étape est prioritaire, car les erreurs d'identité peuvent ensuite affecter les carrières, les professions, la mobilité sociale et les réseaux.
+Cette étape conditionne la fiabilité des carrières, des professions, de la mobilité sociale et des réseaux.
 
 ### 4.2 Extraction plus fine des champs Sycomore
 
-Les informations de base issues de Sycomore sont déjà intégrées :
+Les informations de base issues de Sycomore sont intégrées :
 
 - dates de début et de fin de mandat ;
 - législature ;
@@ -138,69 +138,69 @@ Les informations de base issues de Sycomore sont déjà intégrées :
 - groupe parlementaire ;
 - appartenance gaulliste du groupe.
 
-Cependant, plusieurs champs demandés restent largement incomplets :
+Plusieurs champs restent largement incomplets :
 
 - `circonscription` ;
 - `a_eu_suppleant` ;
 - `suppleant_de`.
 
-Ces champs devront être extraits à partir du texte biographique des notices Sycomore.
+Ces champs doivent être extraits à partir du texte biographique des notices Sycomore.
 
 ### 4.3 Données de mobilité sociale
 
-Les champs nécessaires à l'analyse de mobilité sociale sont prévus dans la structure, mais ne sont pas encore renseignés de manière systématique.
+La structure prévoit les champs nécessaires à l'analyse de mobilité sociale. Leur renseignement systématique reste à effectuer.
 
-Il reste à collecter :
+Champs à compléter :
 
-- les professions successives des individus ;
-- la profession du père ;
-- la profession de la mère ;
-- la formation et les établissements fréquentés ;
-- les codes de catégorie sociale ;
-- le type de mobilité sociale.
+- professions successives des individus ;
+- profession du père ;
+- profession de la mère ;
+- formation et établissements fréquentés ;
+- codes de catégorie sociale ;
+- type de mobilité sociale.
 
 ### 4.4 Réseau relationnel
 
-La base contient déjà des appartenances institutionnelles, des groupes politiques et des sources communes. En revanche, le réseau relationnel entre individus n'est pas encore construit de manière systématique.
+La base contient des appartenances institutionnelles, des groupes politiques et des sources communes. Le réseau relationnel entre individus reste à construire.
 
-Il faudra distinguer :
+Deux catégories de liens doivent être distinguées :
 
-- les liens prouvés : parenté, mariage, appartenance à une même organisation, réseau de résistance, groupe politique ;
-- les liens potentiels : même commune d'origine, même école, même administration, même entreprise ou même unité militaire.
+- liens prouvés : parenté, mariage, appartenance à une même organisation, réseau de résistance, groupe politique ;
+- liens potentiels : même commune d'origine, même école, même administration, même entreprise ou même unité militaire.
 
-Cette étape devrait être menée après la revue des identités.
+Cette étape dépend de la stabilisation préalable des identités.
 
 ### 4.5 Documentation détaillée des champs sources
 
-Les fichiers JSON par source existent, mais certaines sources nécessitent encore une documentation plus détaillée.
+Les fichiers JSON par source sont disponibles. Certaines sources nécessitent encore une documentation plus détaillée.
 
-Il serait utile d'ajouter :
+Compléments à produire :
 
-- la signification de chaque champ source ;
-- le mapping entre les champs sources et les champs unifiés ;
-- les niveaux de fiabilité des sources ;
-- les règles de gestion des valeurs manquantes ou conflictuelles.
+- signification de chaque champ source ;
+- correspondance entre les champs sources et les champs unifiés ;
+- niveaux de fiabilité des sources ;
+- règles de gestion des valeurs manquantes ou conflictuelles.
 
-## 5. Prochaines étapes recommandées
+## 5. Étapes suivantes
 
-### Étape 1 : traiter les cas d'identité prioritaires
+### Étape 1 : revue des cas d'identité prioritaires
 
-Commencer par les 899 cas `P1_quick_review`.
+Les 899 cas `P1_quick_review` constituent le premier lot de revue.
 
-Pour chaque cas, il faut déterminer :
+Pour chaque cas, les éléments suivants doivent être établis :
 
-- s'il s'agit de la même personne ;
-- si les enregistrements doivent être fusionnés ;
-- quel `elite_id` doit être conservé ;
-- quelle preuve justifie la décision.
+- identité ou non-identité des enregistrements comparés ;
+- décision de fusion ou de maintien séparé ;
+- `elite_id` à conserver ;
+- preuve documentaire associée à la décision.
 
 Fichier concerné :
 
 - `review/revue_identites_a_traiter.csv`
 
-### Étape 2 : compléter les champs Sycomore manquants
+### Étape 2 : complétion des champs Sycomore manquants
 
-Compléter en priorité :
+Champs prioritaires :
 
 - `circonscription`
 - `a_eu_suppleant`
@@ -208,9 +208,9 @@ Compléter en priorité :
 
 Ces champs correspondent à une demande explicite de l'encadrement.
 
-### Étape 3 : collecter les données de mobilité sociale
+### Étape 3 : collecte des données de mobilité sociale
 
-Après stabilisation des identités, collecter :
+Après stabilisation des identités, les données suivantes doivent être collectées :
 
 - professions ;
 - professions des parents ;
@@ -218,6 +218,6 @@ Après stabilisation des identités, collecter :
 - codes sociaux ;
 - type de mobilité.
 
-### Étape 4 : construire le réseau relationnel
+### Étape 4 : construction du réseau relationnel
 
-Une fois les identités et les informations de carrière plus stables, construire les relations entre individus en distinguant les liens prouvés et les liens potentiels.
+Après stabilisation des identités et des informations de carrière, les relations entre individus peuvent être construites en distinguant les liens prouvés et les liens potentiels.

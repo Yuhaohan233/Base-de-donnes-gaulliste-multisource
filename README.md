@@ -1,6 +1,6 @@
 # Base de données gaulliste multisource (version v3)
 
-Ce dépôt présente une version de diffusion de la base de données construite pour le projet de recherche sur les élites et réseaux gaullistes. Le contenu reprend la base locale actuelle, avec une documentation en français afin de faciliter la relecture par l'encadrant.
+Ce dépôt rassemble les éléments de diffusion de la base de données gaulliste multisource. Il documente la structure relationnelle, les exports JSON, les tables CSV, les fichiers de revue et les scripts utilisés pour organiser les données relatives aux élites et réseaux gaullistes.
 
 ## Contenu du dépôt
 
@@ -12,9 +12,9 @@ Ce dépôt présente une version de diffusion de la base de données construite 
 - `metadata/` : catalogue des sources, organisations, règles d'appartenance et manifeste de diffusion.
 - `scripts/` : scripts Python utilisés pour construire le registre multisource et exporter les fichiers JSON.
 
-## Assets à joindre dans GitHub Release
+## Assets associés à la release
 
-Les fichiers volumineux ne doivent pas être placés directement dans le dépôt Git. Ils sont préparés dans `github_package_fr/release_assets` :
+Les fichiers volumineux sont distribués comme assets de release afin de conserver un dépôt Git lisible.
 
 - `gaullist_db_v3.dump` : sauvegarde PostgreSQL restaurable.
 - `json_v3.zip` : export JSON v3 complet.
@@ -31,11 +31,11 @@ Les fichiers volumineux ne doivent pas être placés directement dans le dépôt
 
 ## Restauration PostgreSQL
 
-Après avoir téléchargé `gaullist_db_v3.dump` depuis la release GitHub :
+Après téléchargement de `gaullist_db_v3.dump`, la base peut être restaurée avec :
 
 ```bash
 createdb gaullist_db
 pg_restore -d gaullist_db gaullist_db_v3.dump
 ```
 
-Le schéma relationnel est documenté dans `schema/database_v3_multisource.sql` et visualisable avec `schema/database_v3_multisource.dbml` sur dbdiagram.io.
+Le schéma relationnel est documenté dans `schema/database_v3_multisource.sql`. Le fichier `schema/database_v3_multisource.dbml` peut être importé dans dbdiagram.io pour produire un schéma ER.

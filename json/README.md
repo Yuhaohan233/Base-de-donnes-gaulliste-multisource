@@ -1,19 +1,15 @@
 # Exports JSON
 
-Ce dossier rend visibles les fichiers JSON structurés demandés pour la documentation du modèle de données.
+Ce dossier expose les fichiers JSON nécessaires à la compréhension du modèle documentaire.
 
 ## `sources/`
 
-Un fichier JSON par source ou corpus documentaire. Chaque fichier décrit la source, ses métadonnées bibliographiques et les personnes auxquelles elle contribue.
+Chaque fichier JSON correspond à une source ou à un corpus documentaire. Il décrit les métadonnées bibliographiques, les personnes concernées, les champs fournis et les règles d'appariement.
 
 ## `organizations/`
 
-Un fichier JSON par organisation ou groupe politique/institutionnel référencé dans la base.
+Chaque fichier JSON correspond à une organisation ou à un groupe politique/institutionnel référencé dans la base.
 
 ## Export complet des personnes
 
-Les 66 059 fichiers JSON individuels ne sont pas suivis directement dans le dépôt afin d'éviter un dépôt trop lourd. Ils sont fournis dans l'asset de release :
-
-- `json_v3.zip`
-
-Après extraction, le dossier `persons/` contient un fichier JSON par individu, relié à la table CSV maîtresse par le même identifiant `elite_id`.
+Les 66 059 fichiers JSON individuels sont fournis dans l'asset de release `json_v3.zip`. Après extraction, le dossier `persons/` contient un fichier JSON par individu. Chaque fichier individuel est relié à la table CSV maîtresse par l'identifiant `elite_id`.

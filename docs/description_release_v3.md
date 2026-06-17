@@ -1,6 +1,6 @@
 # Base de données gaulliste multisource - version v3
 
-Cette release fournit la version de diffusion de la base de données gaulliste multisource. Elle accompagne le dépôt GitHub contenant la documentation en français, le schéma SQL/DBML, les schémas JSON, les fichiers de revue et les scripts de construction/export.
+Cette release regroupe les exports complets associés à la version v3 de la base de données gaulliste multisource. Le dépôt contient la documentation, le schéma SQL/DBML, les schémas JSON, les fichiers de revue et les scripts de construction/export.
 
 ## Contenu principal
 

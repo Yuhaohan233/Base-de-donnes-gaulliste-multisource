@@ -12,7 +12,7 @@ Le fichier `review/revue_identites_a_traiter.csv` contient les cas où un rappro
 
 ## Priorités
 
-- `P1_quick_review` : cas probablement faciles, à traiter en premier.
+- `P1_quick_review` : cas probablement simples, à traiter en premier.
 - `P2_ambiguous` : cas ambigus nécessitant une vérification plus attentive.
 - `P3_hard_conflict` : conflits forts, à traiter uniquement avec preuve documentaire solide.
 
